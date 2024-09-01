@@ -1,0 +1,741 @@
+,Name,Area,City,Cuisine,Price for 2,Walk in Offer,Rating,Average distance from City-Center,Type of Dining
+0,Tashi Cafe, Banjara Hills, Hyderabad,"North Indian, Pizza, Pasta, Italian, Chinese, Salad, Desserts, Beverages",2000.0,10.0,4.3,5.8,Regional Dining
+1,Coffee Cup, Somajiguda, Hyderabad,"Cafe, Tea, Beverages, American, Pizza, Burger, Continental, Italian",950.0,10.0,4.2,6.5,Casual Dining
+2,Ofen, Banjara Hills, Hyderabad,"Cafe, Coffee, Sandwich, Italian, Mexican, Pasta, Fast Food",1200.0,10.0,3.7,6.5,Casual Dining
+3,Shanghai - Flavours of China Town, S P Road, Secunderabad,"Chinese, Asian",1000.0,15.0,4.3,8.6,Thematic Dining
+4,Red Rhino, Hitech City, Hyderabad,"Asian, North Indian, Continental, European, Burger, Pizza, Desserts, Beverages",2400.0,10.0,4.5,12.7,Thematic Dining
+5,Lifafa Cafe & Bistro, Uppal, Secunderabad,"Cafe, Chinese, Asian, Sandwich, Continental, Coffee, Shake, Desserts",1000.0,10.0,4.1,9.2,Casual Dining
+6,Wild Goat, Madhapur, Hyderabad,"Cafe, Coffee, Continental, Asian, Pizza, Burger, Desserts, Italian",1800.0,10.0,4.4,12.1,Casual Dining
+7,Sahib’s Barbeque By Ohri’s, Madhapur, Hyderabad,"North Indian, Awadhi, Hyderabadi, Desserts",2000.0,10.0,4.4,13.5,Regional Dining
+8,Bakelore, Kondapur, Hyderabad,"Bakery, Desserts, Burger, Pizza, Cafe, Tea, Coffee, Beverages",650.0,20.0,3.3,17.5,Casual Dining
+9,AnTeRa Kitchen And Bar, Jubilee Hills, Hyderabad,"South Indian, North Indian, Biryani, Chinese, Desserts, Beverages",1900.0,10.0,4.4,10.1,Regional Dining
+10,Masterpiece," Preston Prime Mall,Gachibowli", Hyderabad,"South Indian, North Indian, Salad, Chinese, Italian, Middle Eastern, Momos, Desserts",3200.0,10.0,4.3,13.1,Regional Dining
+11,Mamalola Penthouse Bar & Kitchen, Gandipet, Hyderabad,"Continental, Modern Indian, Asian, Pizza, Fast Food, Chinese, Lebanese, Sushi",1700.0,10.0,4.4,15.8,Thematic Dining
+12,AnTeRa Courtyard, Financial District, Hyderabad,"South Indian, Kebab, Biryani, Desserts",1600.0,10.0,4.4,16.6,Regional Dining
+13,ZYTHUM Brewing Co., Jubilee Hills, Hyderabad,"Continental, Pizza, North Indian, Asian, Desserts, Grilled Chicken, Pasta",2500.0,10.0,4.4,9.3,Thematic Dining
+14,36 Downtown Brew Pub," Road 36, Jubilee Hills", Hyderabad,"Continental, Hyderabadi, Finger Food, Pizza, Beverages, Desserts",3000.0,20.0,4.3,11.2,Thematic Dining
+15,Barbeque Holic, Kondapur, Hyderabad,"Chinese, Salad, Fast Food, North Indian, Desserts, Beverages, South Indian, Continental",1500.0,10.0,4.6,15.9,Thematic Dining
+16,OKA, Jubilee Hills, Hyderabad,"Bar Food, Italian, Asian, Finger Food, North Indian, Continental, Coffee, Beverages",2000.0,10.0,4.3,9.9,Thematic Dining
+17,Air Live," Sarath City Capital Mall, Kondapur", Hyderabad,"North Indian, Salad, Fast Food, Italian, Asian, Bar Food, Desserts, Beverages",2500.0,10.0,4.3,15.7,Regional Dining
+18,Forge Breu - Hous, Jubilee Hills, Hyderabad,"Finger Food, Continental, North Indian, Italian, Desserts",2500.0,15.0,4.5,10.9,Thematic Dining
+19,White Hart, Gachibowli, Hyderabad,"North Indian, Mughlai, Continental, Italian, Seafood, Asian, Fast Food, Desserts",1500.0,10.0,4.3,13.1,Regional Dining
+20,7 Sisters, Kondapur, Hyderabad,"North Eastern, Sushi, Tibetan, Momos",1800.0,15.0,4.6,15.6,Regional Dining
+21,Ukusa, Jubilee Hills, Hyderabad,"Cafe, Coffee, South Indian, Asian, Continental, Beverages",1000.0,15.0,3.9,9.9,Casual Dining
+22,Amnesia Lounge Bar," Road 36, Jubilee Hills", Hyderabad,"Bar Food, American, Pasta, Street Food, Pizza, Asian, Beverages, Desserts",1800.0,25.0,4.2,10.3,Thematic Dining
+23,Heart Cup Coffee, Kondapur, Hyderabad,"Continental, Asian, North Indian, Italian, Pizza, Street Food, Beverages",2000.0,20.0,4.3,15.5,Thematic Dining
+24,Zindagi Sky Bar & Kitchen, Jubilee Hills, Hyderabad,"North Indian, Chinese, Japanese, Pizza, Desserts, Beverages, Italian",3100.0,10.0,4.3,11.2,Regional Dining
+25,Insomnia," Road 36, Jubilee Hills", Hyderabad,"North Indian, Italian, Chinese, Finger Food, Continental, Beverages, Bar Food",1900.0,15.0,4.2,10.3,Regional Dining
+26,Renao Cafe & Bistro, Madhapur, Hyderabad,"Cafe, Continental, Pasta, North Indian, Asian, Pizza",1400.0,15.0,4.4,13.6,Casual Dining
+27,Dhaba - Estd 1986 Delhi, Kondapur, Hyderabad,"North Indian, Mughlai, Kebab, Paan, Desserts, Beverages",1650.0,10.0,4.6,15.0,Regional Dining
+28,Raise The Bar, Manikonda, Hyderabad,"Finger Food, Chinese, Mughlai, North Indian, Fast Food, Beverages",1900.0,40.0,4.3,12.2,Thematic Dining
+29,Aura Cafe & Infusion Bar, Jubilee Hills, Hyderabad,"Coffee, Italian, Chinese, Oriental, Continental, Bar Food, Beverages, Desserts",2000.0,10.0,4.5,10.3,Casual Dining
+30,Firestone Grill, Kukatpally, Hyderabad,"BBQ, North Indian, South Indian, Desserts, Continental, Italian",1600.0,10.0,4.3,16.4,Specialty Dining
+31,Frat House," SLN Terminus, Gachibowli", Hyderabad,"Continental, Asian, Chinese, North Indian, Italian, Biryani, Bar Food",2500.0,10.0,4.3,15.4,Thematic Dining
+32,Hard Rock Cafe, Hitech City, Hyderabad,"American, Continental, Italian, Wraps, Burger, Desserts, Fast Food, Beverages",2750.0,15.0,4.6,12.4,Thematic Dining
+33,Nouba - Bar & Kitchen, Medchal Road, Hyderabad,"Continental, Asian, Modern Indian, Finger Food, Bar Food, Chinese, Pasta, Pizza",1500.0,10.0,4.3,16.5,Thematic Dining
+68,Echoes, Madhapur, Hyderabad,"Pizza, Coffee, Momos, Shake, Burger, Pasta, Chinese, North Indian",1100.0,15.0,4.7,12.0,Casual Dining
+69,Jonathan's Kitchen," Fairfield by Marriot, Gachibowli", Hyderabad,"North Indian, Japanese, Italian, Sushi, Chinese, Continental, Beverages, Desserts",3600.0,15.0,4.3,15.0,Regional Dining
+70,Anthe Kitchen, Hitech City, Hyderabad,"Biryani, South Indian, North Indian, Andhra, Desserts, Kebab, Chinese, Hyderabadi",1500.0,10.0,4.2,13.5,Regional Dining
+71,Luno - Lounge Bar & Kitchen, Financial District, Hyderabad,"North Indian, Chinese, Sushi, Pizza, Fast Food, Bar Food, Asian, Desserts",1100.0,10.0,4.3,16.4,Regional Dining
+72,The Globe Grub, Gachibowli, Hyderabad,"North Indian, Chinese, Asian, Fast Food, Street Food, Desserts",1700.0,10.0,4.3,13.8,Regional Dining
+73,Chiguru, Jubilee Hills, Hyderabad,"South Indian, North Indian, Chinese, Biryani, Desserts, Beverages",1200.0,10.0,4.3,11.4,Regional Dining
+74,Jathara, Jubilee Hills, Hyderabad,"South Indian, North Indian, Biryani, Chinese, Seafood, Desserts, Beverages",1500.0,10.0,4.2,9.9,Regional Dining
+75,Nataka Global Kitchen And Cafe, Jubilee Hills, Hyderabad,"Continental, Asian, Thai, Andhra, Italian, Chinese, Momos, Desserts",1500.0,10.0,4.3,10.3,Thematic Dining
+76,Tales of Telugu, Madhapur, Hyderabad,South Indian,1500.0,10.0,4.1,12.6,Regional Dining
+77,Shiso Cafe, Madhapur, Hyderabad,"Cafe, Coffee, Continental",800.0,10.0,4.3,13.9,Casual Dining
+78,Cu2 Brewhouse, Financial District, Hyderabad,"North Indian, Italian, Chinese, Asian, Continental, Mughlai, Pizza",2000.0,10.0,4.2,15.1,Regional Dining
+79,Anaga  Spice Kitchen & Bar, Jubilee Hills, Hyderabad,"Andhra, North Indian, Biryani, Desserts, South Indian",1200.0,10.0,4.4,10.0,Regional Dining
+80,Ohri's Jiva, Begumpet, Hyderabad,"North Indian, Rajasthani, South Indian, Chinese, Desserts",1300.0,10.0,4.3,8.0,Regional Dining
+81,President Dhaba, Madhapur, Hyderabad,"North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages, Biryani",1500.0,15.0,3.9,13.4,Regional Dining
+82,Mamagoto, Kondapur, Hyderabad,"Asian, Japanese, Thai, Salad, Desserts",1500.0,10.0,4.5,15.0,Thematic Dining
+83,Food Exchange - Novotel Hyderabad Convention Centre," Novotel Hyderabad Convention Centre, Hitech City", Hyderabad,"North Indian, Asian, American, Chinese, Italian, Desserts",4000.0,15.0,4.1,16.2,Regional Dining
+84,PaPaYa  - Modern Asian Bistro, Film Nagar, Hyderabad,"Bar Food, Asian, Korean, Chinese, Sushi, Mexican, Seafood, Desserts",2000.0,10.0,4.4,9.1,Thematic Dining
+85,The Fisherman's Wharf, Financial District, Hyderabad,"Chinese, Salad, Fast Food, Seafood, Asian, Continental, Desserts",1800.0,10.0,4.3,16.1,Thematic Dining
+86,Aqua - The Park," The Park, Somajiguda", Hyderabad,"North Indian, Continental, Fast Food, Finger Food, Desserts, Beverages",2500.0,15.0,4.3,6.6,Regional Dining
+87,Post Card - Global Tapas Bar, Madhapur, Hyderabad,"Bar Food, North Indian, Modern Indian, Asian, Finger Food, Pizza, Continental, Pasta",2500.0,10.0,4.4,12.8,Thematic Dining
+88,Krishnapatnam," Road 36, Jubilee Hills", Hyderabad,"Andhra, Chinese, North Indian, Seafood, Biryani, Desserts, Beverages",1300.0,10.0,4.3,9.9,Regional Dining
+89,Lord Of The Drinks, Jubilee Hills, Hyderabad,"North Indian, Asian, Bar Food, Sushi, Italian, Continental, BBQ, Beverages",2500.0,15.0,4.3,10.5,Regional Dining
+90,Pandaga, Kondapur, Hyderabad,"South Indian, Chinese, North Indian, Andhra, Fast Food, Biryani, Italian, Hyderabadi",1000.0,10.0,4.3,15.5,Regional Dining
+91,Amnesia Sky Bar," Inorbit Mall, Hitech City", Hyderabad,"Finger Food, Italian, Sushi, Fast Food, Oriental, Biryani, Desserts, Beverages",2500.0,15.0,4.2,12.1,Thematic Dining
+92,Verandah - The Park, Somajiguda, Hyderabad,"North Indian, Continental, Chinese, Biryani, Oriental, Desserts, Beverages",3000.0,10.0,4.3,6.6,Regional Dining
+93,The Neighbourhood, Himayath Nagar, Hyderabad,"North Indian, Continental, Oriental, Fast Food, Bar Food",2000.0,10.0,4.3,4.0,Regional Dining
+94,A19 Klub & Kitchen," Sarath City Capital Mall, Kondapur", Hyderabad,"Bar Food, Pizza, Fast Food, Finger Food, Biryani, Chinese, North Indian, Pasta",2000.0,20.0,4.3,14.9,Thematic Dining
+95,Exotica," 12th Square Building, Banjara Hills", Hyderabad,"North Indian, Biryani, Kebab, Chinese, Oriental, Desserts, Shake, Beverages",2500.0,15.0,4.5,6.4,Regional Dining
+96,Teluguness Restaurant, Kompally, Hyderabad,"Andhra, South Indian, North Indian, Chinese, Mughlai, Biryani",1000.0,10.0,4.2,16.2,Regional Dining
+160,Flechazo, Kothapet, Hyderabad,"Mediterranean, Salad, Fast Food, North Indian, North Eastern, Chinese, Pizza, Pasta",1600.0,10.0,4.3,7.3,Fine Dining
+161,Nicos Cafe Lounge Bar, Jubilee Hills, Hyderabad,"North Indian, Continental, Finger Food, Pizza, Fast Food, Biryani, Desserts",1400.0,10.0,4.2,11.5,Regional Dining
+162,Tara Moroccan Kitchen, Jubilee Hills, Hyderabad,"Moroccan, Mediterranean, Seafood, Arabian, Asian, African, Biryani, Mandi",1200.0,10.0,4.4,10.0,Fine Dining
+163,Naatu Kitchen And Bar, Jubilee Hills, Hyderabad,"Andhra, North Indian, Biryani, South Indian, Desserts, Chinese, Beverages",1000.0,10.0,4.6,9.9,Regional Dining
+164,Kavyam The Telugu Table, Jubilee Hills, Hyderabad,"South Indian, North Indian, Biryani, Chinese, Kebab, Desserts, Beverages",1500.0,10.0,4.5,9.4,Regional Dining
+165,Komma - The Club, Kothaguda, Hyderabad,"Italian, Fast Food, North Indian, Beverages, Chinese",1700.0,25.0,4.0,15.0,Fine Dining
+166,House Of Bagaara, Madhapur, Hyderabad,"Biryani, Chinese, Hyderabadi",1500.0,15.0,4.5,12.3,Regional Dining
+167,Ala Dakshinapuramlo - Buffet, Hitech City, Hyderabad,"South Indian, Biryani, North Indian, Desserts, Beverages",1500.0,10.0,3.9,13.8,Regional Dining
+168,The Hole In The Wall Cafe, Jubilee Hills, Hyderabad,"Continental, American, Burger, Sandwich, Street Food, Waffle, Beverages",850.0,10.0,3.9,9.5,Thematic Dining
+169,Turquoise - Le Meridien," Le Meridien, Gachibowli", Hyderabad,"Asian, North Indian, Hyderabadi, South Indian, Burger, Biryani, Desserts, Beverages",2500.0,30.0,4.2,15.1,Thematic Dining
+170,Xora Bar & Kitchen, Jubilee Hills, Hyderabad,"Bar Food, Asian, Chinese, Italian, South Indian, Continental, Desserts",2000.0,10.0,4.3,10.4,Thematic Dining
+171,Kortyard Cafe, Jubilee Hills, Hyderabad,"Cafe, Coffee, Asian, Continental, Chinese, Salad, Turkish, Beverages",1400.0,10.0,4.3,9.2,Casual Dining
+172,Voila," Road 36, Jubilee Hills", Hyderabad,"European, Modern Indian, Biryani, Italian, Pasta, Beverages, Pizza, Desserts",1800.0,15.0,4.4,10.3,Fine Dining
+173,Enchanté Café & Confectionery, Film Nagar, Hyderabad,"Cafe, Italian, Continental, Burger, Fast Food, Desserts, Beverages, Pizza",700.0,10.0,4.2,9.1,Casual Dining
+174,Ta.Ma.Sha - Restro Cafe, Jubilee Hills, Hyderabad,"Asian, Thai, Korean, Chinese, Burger, Pizza, Coffee, Desserts",1200.0,15.0,3.8,11.6,Thematic Dining
+175,Tim Hortons," Inorbit Mall, Hitech City", Hyderabad,"Cafe, Coffee, Beverages, Desserts, Sandwich, Fast Food",300.0,10.0,3.9,12.1,Casual Dining
+176,Sakura - A Far Eastern Kitchen, Jubilee Hills, Hyderabad,"Japanese, Asian, Thai, Sushi, Korean, Chinese, Desserts, Beverages",1600.0,10.0,4.4,9.7,Fine Dining
+177,Tiki Shack, Gachibowli, Hyderabad,"North Indian, Asian, Chinese, Seafood, Biryani, Fast Food, Desserts, Beverages",2500.0,35.0,3.8,15.4,Regional Dining
+178,Pause, Hitech City, Hyderabad,"North Indian, Italian, Asian, Continental, Bar Food, Desserts",1600.0,20.0,4.1,13.5,Regional Dining
+179,Moyaaah!, Banjara Hills, Hyderabad,"Cafe, Burger, Fast Food, Sandwich, American, Desserts, Beverages",1150.0,10.0,4.7,6.0,Casual Dining
+180,Kadali Kitchen, Jubilee Hills, Hyderabad,South Indian,500.0,10.0,3.9,8.3,Regional Dining
+181,Minyu - The Asian Affair, Madhapur, Hyderabad,"Chinese, Seafood, Desserts, Beverages, Asian",1200.0,15.0,4.6,13.4,Thematic Dining
+182,Ishtaa, Gachibowli, Hyderabad,"South Indian, North Indian, Chinese, Biryani, Desserts, Beverages",700.0,10.0,4.2,13.2,Regional Dining
+183,Hummus House, Banjara Hills, Hyderabad,"Mediterranean, Lebanese, Asian, Arabian, Pasta, Italian, Continental",1300.0,10.0,4.9,5.9,Fine Dining
+184,Rayalaseema Ruchulu, Hitech City, Hyderabad,"Andhra, South Indian, Chinese, North Indian, Biryani, Desserts, Beverages",1100.0,10.0,4.3,13.2,Regional Dining
+185,Brews & Blends, Kondapur, Hyderabad,"Continental, Italian, Pizza, Burger, Fast Food, Salad",1500.0,10.0,4.4,15.4,Thematic Dining
+186,TGI Fridays," Nexus Hyderabad, Kukatpally", Hyderabad,"American, Burger, Italian, Beverages, Desserts, Pizza, BBQ, Mexican",2500.0,15.0,4.1,16.0,Thematic Dining
+187,Aish - The Park," The Park, Somajiguda", Hyderabad,"Hyderabadi, Andhra, Biryani, Desserts",3500.0,10.0,4.3,6.5,Other
+188,Little Italy, Gandipet, Hyderabad,"Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages",1700.0,15.0,4.6,15.6,Fine Dining
+189,Mairu Bistro, Jubilee Hills, Hyderabad,"Cafe, Coffee, Fast Food, Chinese, North Indian, Mexican, Italian, Beverages",1500.0,10.0,4.0,10.7,Casual Dining
+190,Vivaha Bhojanambu Kitchen & Bar, Jubilee Hills, Hyderabad,"Andhra, Biryani, South Indian, Desserts, Beverages",1400.0,10.0,4.0,9.8,Regional Dining
+191,Theth Masala, Lingampally, Hyderabad,"North Indian, Chinese, Continental, Mughlai, Kebab, Seafood, Desserts, Beverages",1400.0,10.0,4.6,20.6,Regional Dining
+192,Yello Life Cafe, Jubilee Hills, Hyderabad,"Cafe, Beverages, Continental, Asian, Healthy Food, Desserts",700.0,10.0,4.3,9.7,Casual Dining
+193,45th Avenue, Film Nagar, Hyderabad,"Cafe, Coffee, Burger, Sandwich, Beverages, Desserts, Tea, Continental",950.0,15.0,4.2,9.3,Casual Dining
+194,Medoe Curated Buffet, The Skyview, Hyderabad,"North Indian, Chinese, Continental, Italian, Asian, South Indian, Biryani, Desserts",1000.0,10.0,4.3,12.9,Regional Dining
+195,White Mango Kitchen, Jubilee Hills, Hyderabad,"Continental, North Indian",1000.0,10.0,4.0,9.5,Thematic Dining
+196,Yummy Bee, Manikonda, Hyderabad,"Cafe, Pizza, Continental, Coffee, Desserts, Pasta, Healthy Food, Fast Food",1000.0,10.0,4.4,11.6,Casual Dining
+197,Tara - South Indian Kitchen, Kothaguda, Hyderabad,"South Indian, Shake, Beverages",1000.0,10.0,4.1,15.0,Regional Dining
+198,Seasonal Tastes - The Westin," The Westin Hyderabad Mindspace, Hitech City", Hyderabad,"Continental, North Indian, Italian, Asian, Chinese, Salad, Beverages, Desserts",4000.0,15.0,4.4,13.1,Thematic Dining
+301,Dine Hill Fusion Flavours, Banjara Hills, Hyderabad,"Hyderabadi, Biryani, Chinese, Mandi, Kebab, Arabian, Desserts, Beverages",2000.0,10.0,3.3,7.7,Other
+302,Cafe Delhi Heights, Hitech City, Hyderabad,"Cafe, Pizza, North Indian, Pasta",1500.0,15.0,4.3,12.4,Casual Dining
+303,Sadda Punjabi Cafe, Madhapur, Hyderabad,"North Indian, Desserts, Beverages, Grilled Chicken, Kebab",500.0,10.0,4.3,13.4,Regional Dining
+304,Palace Heights, Banjara Hills, Hyderabad,"North Indian, Mughlai, Continental, Chinese, Bar Food, Salad, Desserts, Beverages",1400.0,10.0,3.3,7.3,Regional Dining
+305,AREY!, Financial District, Hyderabad,"South Indian, North Indian, Fast Food",1000.0,15.0,4.3,15.8,Regional Dining
+306,Globe Buffetio, Financial District, Hyderabad,"South Indian, Asian, North Indian, Continental, Desserts, Mughlai",1700.0,10.0,4.2,16.4,Regional Dining
+307,Vibeyard, Film Nagar, Hyderabad,"Italian, Continental, Chinese, Sandwich, Seafood, Salad, Fast Food",1800.0,20.0,4.5,8.9,Fine Dining
+308,The Glass Onion, Gachibowli, Hyderabad,"North Indian, Asian, Fast Food, Italian, Beverages",2500.0,10.0,4.2,14.9,Regional Dining
+309,Saudi Arabian Restaurant, Ameerpet, Hyderabad,"Arabian, Mandi, Desserts",500.0,10.0,3.9,8.6,Other
+310,Erra Karam - South Indian Resto Bar, Jubilee Hills, Hyderabad,"Andhra, Chinese, Kebab, North Indian, South Indian, Bar Food, Biryani, Desserts",1400.0,10.0,4.3,10.3,Regional Dining
+311,The Glass House- Progressive Kitchen & Cocktail Bar, Jubilee Hills, Hyderabad,"Modern Indian, Cafe, Asian, Coffee, Desserts, Beverages, Seafood",1500.0,10.0,4.3,10.1,Fine Dining
+312,Headquarters, Somajiguda, Hyderabad,"Continental, Chinese, Italian, North Indian, Oriental, Hyderabadi, Desserts, Beverages",1800.0,15.0,4.4,6.4,Thematic Dining
+313,Sesame, Gachibowli, Hyderabad,"Asian, Chinese, Sushi, Japanese, Oriental, Desserts, Momos, Seafood",1200.0,10.0,4.5,14.3,Thematic Dining
+314,By The Bottle," Road 36, Jubilee Hills", Hyderabad,"Continental, Chinese, North Indian, Italian, Pizza, Bar Food",1400.0,15.0,4.2,9.9,Thematic Dining
+315,House Of Gourmet, Jubilee Hills, Hyderabad,"Continental, Asian, Pizza, Pasta, Cafe, Coffee, Beverages",1200.0,10.0,4.3,10.4,Thematic Dining
+316,The Symphony, Film Nagar, Hyderabad,"North Indian, Continental, Asian, Chinese, Italian, Biryani, Desserts, Beverages",1400.0,10.0,4.3,9.1,Regional Dining
+317,Beenz Authentic Diner, Madhapur, Hyderabad,"South Indian, North Indian, Biryani, Chinese, Fast Food",1000.0,10.0,4.3,11.5,Regional Dining
+318,Gabru Di Chaap, Sainikpuri, Secunderabad,"North Indian, Kebab, Wraps, Fast Food, Momos, Beverages",1000.0,10.0,4.0,15.1,Regional Dining
+319,Telangana Spice Kitchen, Jubilee Hills, Hyderabad,"South Indian, North Indian, Biryani, Kebab, Hyderabadi, Desserts, Chettinad",2500.0,10.0,4.4,9.2,Regional Dining
+320,Soul Fine Dine, Gachibowli, Hyderabad,"Italian, Continental, Salad, Beverages",2000.0,10.0,4.5,13.1,Fine Dining
+321,Brewsters Fine Dine Resto Bar, Gachibowli, Hyderabad,"Bar Food, Pizza, Beverages, South Indian, Chinese, Pasta",1000.0,10.0,4.1,17.1,Thematic Dining
+322,Rasyumm Multicuisine Veg & Non Veg, Hitech City, Hyderabad,"Chinese, North Indian, Biryani, Momos, Thai, Desserts",1000.0,10.0,4.3,14.3,Thematic Dining
+323,Luft Bar & Kitchen, Jubilee Hills, Hyderabad,"Asian, Continental, Italian, Pasta, Pizza, Thai, Burger, Desserts",1000.0,10.0,4.2,9.9,Thematic Dining
+324,Rasyumm Multi Cuisine Restaurant, Chanda Nagar, Hyderabad,"South Indian, North Indian, Kebab, Chinese, Biryani, Desserts",1100.0,10.0,3.9,20.8,Regional Dining
+325,Telugu Aromas, Kothaguda, Hyderabad,"South Indian, Biryani",500.0,10.0,3.2,15.9,Regional Dining
+326,Feast - Sheraton Hyderabad Hotel," Sheraton Hyderabad Hotel, Gachibowli", Hyderabad,"Modern Indian, Asian, Continental, Italian, Desserts, American, South Indian, Biryani",4200.0,25.0,4.1,15.9,Fine Dining
+327,Hoy Punjab Restaurant, Manikonda, Hyderabad,"North Indian, Kebab",1500.0,15.0,4.2,12.1,Regional Dining
+328,BowlFit, Madhapur, Hyderabad,"Italian, Continental, Salad",500.0,10.0,3.8,14.0,Fine Dining
+329,Theia Bistro & Bar, Gandipet, Hyderabad,"Continental, Italian, Greek, Beverages, Chinese, Modern Indian, Asian, Pizza",1200.0,10.0,4.4,16.2,Thematic Dining
+330,Hibacci -North East Asian Kitchen, Banjara Hills, Hyderabad,"Asian, Momos, Korean, Sushi, Beverages, Burmese, Japanese, Seafood",1000.0,15.0,4.4,6.9,Thematic Dining
+331,World Of Wiskies, Gandipet, Hyderabad,"Bar Food, South Indian, Chinese, Biryani, Beverages",1300.0,15.0,3.9,14.4,Thematic Dining
+332,45th Avenue by Karachi Bakery, Gachibowli, Hyderabad,"Bakery, Sandwich, Burger, Asian, Chinese, Fast Food, Desserts",500.0,15.0,4.4,14.3,Casual Dining
+333,F Cafe & Bar, Madhapur, Hyderabad,"North Indian, Chinese, Sushi, Continental, Pizza, Italian, Biryani, Desserts",2000.0,10.0,4.5,13.1,Regional Dining
+334,Amro Cafe, Gachibowli, Hyderabad,"Cafe, Coffee, Continental, Bakery, Beverages",1200.0,10.0,4.3,15.5,Casual Dining
+335,Iron Grill Mandi & Restaurant, Financial District, Hyderabad,"Arabian, Mandi, Kebab",1000.0,10.0,3.9,16.7,Other
+336,Ala Dakshinapuramlo, Hitech City, Hyderabad,"South Indian, Andhra, Biryani, Seafood, Chinese, Ice Cream",1300.0,10.0,4.0,13.7,Regional Dining
+337,A'La Liberty, Hitech City, Hyderabad,"North Indian, Continental, Asian, Pizza, Italian, Oriental, Desserts, Beverages",1600.0,10.0,4.3,13.5,Regional Dining
+338,The Joint Al- Mandi, Kukatpally, Hyderabad,"Mandi, Arabian, BBQ, Beverages, Kebab, Afghan",1000.0,20.0,4.2,16.5,Other
+339,Vault Brewery, Jubilee Hills, Hyderabad,Bar Food,1500.0,10.0,4.3,11.3,Thematic Dining
+340,Hyra Kitchen, Jubilee Hills, Hyderabad,"Andhra, North Indian, Mughlai, Biryani, Chinese",1200.0,20.0,4.4,9.6,Regional Dining
+341,Jalpaan, Begumpet, Hyderabad,"North Indian, Biryani, Italian, Continental, Fast Food, Desserts, Beverages",1600.0,10.0,4.1,7.4,Regional Dining
+342,Punjab Grill, Hitech City, Hyderabad,"North Indian, Kebab, Biryani, Mughlai",1800.0,15.0,4.1,12.1,Regional Dining
+487,Soul Of South - Kitchen & Bar, Nanakramguda, Hyderabad,"South Indian, Seafood, Biryani, Andhra, Chinese, Desserts",800.0,10.0,4.5,15.8,Regional Dining
+488,Saffron Soul - Marigold Hotel," Marigold Hotel, Begumpet", Hyderabad,"North Indian, Continental, Italian, Chinese, South Indian, Biryani, Desserts, Beverages",2200.0,15.0,4.2,8.2,Regional Dining
+489,Fly - Feel The High, Jubilee Hills, Hyderabad,"Continental, Chinese, Pizza, North Indian, Beverages",2500.0,20.0,4.2,8.5,Thematic Dining
+490,Bel Posto The Cafe, Jubilee Hills, Hyderabad,"Cafe, Salad, Healthy Food, Continental, Fast Food, Beverages, Shake, Pizza",950.0,15.0,4.1,10.6,Casual Dining
+491,Mirosa Cafe & Kitchen, Himayath Nagar, Hyderabad,"Pizza, Burger, Fast Food, Continental, Healthy Food, Pasta, Sandwich, Beverages",1200.0,10.0,4.1,3.9,Casual Dining
+492,Deccan Pavilion - ITC Kakatiya," ITC Kakatiya, Begumpet", Hyderabad,"North Indian, South Indian, Continental, Chinese",3500.0,15.0,4.2,7.7,Regional Dining
+493,Beri’s Bistro, Kondapur, Hyderabad,"North Indian, South Indian, Continental, Chinese, Italian",600.0,10.0,3.3,16.5,Regional Dining
+494,Rebel And Rye, Jubilee Hills, Hyderabad,"Continental, North Indian, Pizza, Bar Food, Beverages",2200.0,20.0,3.9,9.0,Thematic Dining
+495,Jewel of Nizam - The Golkonda Hotel," Golkonda Hotel, Masab Tank", Hyderabad,"Hyderabadi, Mughlai",5000.0,10.0,4.1,4.9,Other
+496,Cravery, Jubilee Hills, Hyderabad,"Cafe, Chinese, BBQ, Continental, Seafood, Italian, Fast Food, Desserts",950.0,10.0,4.6,9.0,Casual Dining
+497,Cravery Cafe, Financial District, Hyderabad,"Cafe, Coffee, North Indian, Mughlai, Seafood, Chinese, Desserts, Beverages",1000.0,10.0,4.4,15.9,Casual Dining
+498,Sounds & Spirits, Madhapur, Hyderabad,"Finger Food, Continental, Pizza, North Indian, Chinese, Beverages",1300.0,10.0,3.9,12.0,Thematic Dining
+499,Spice It - ibis Hyderabad HITEC City, ibis Hyderabad HITEC City, Hyderabad,"North Indian, Chinese, Biryani, Desserts, Beverages",1600.0,30.0,3.9,13.7,Regional Dining
+500,Oney Brewhouse, Cunningham Road, Bangalore,"American, Continental, Italian, South Indian, North Indian, Asian, Chinese",1500.0,15.0,4.0,1.6,Thematic Dining
+501,Farzi Cafe, UB City, Bangalore,"North Indian, Desserts",1900.0,10.0,4.2,0.2,Regional Dining
+502,SkyDeck By Sherlock's, MG Road, Bangalore,"Continental, Chinese, Finger Food, North Indian, Fast Food, Beverages, Desserts",1800.0,15.0,4.2,1.5,Thematic Dining
+503,Maayaa," Prestige Trade Tower, Race Course Road", Bangalore,"South Indian, Seafood, Biryani, Kerala, Desserts, Beverages",1200.0,15.0,4.1,1.7,Regional Dining
+504,Ouzo By Fire, Indiranagar, Bangalore,"Goan, Mangalorean, Beverages",1000.0,10.0,4.3,5.1,Regional Dining
+505,Gilly's Restobar, Old Airport Road, Bangalore,"North Indian, Continental, Oriental, Pizza, Fast Food, Chinese, Desserts, Beverages",1200.0,10.0,4.3,6.7,Regional Dining
+506,The Big Barbeque, Bannerghatta Road, Bangalore,"North Indian, Chinese, Ice Cream, Mangalorean, Fast Food, Salad, Desserts",1800.0,10.0,4.2,9.9,Regional Dining
+507,Neo Kitchen - Hilton Embassy Manyata Business Park, Hilton Bengaluru Embassy Manyata Business Park, Bangalore,"Asian, Continental, Italian, South Indian, North Indian, Biryani, Desserts, Beverages",3100.0,20.0,4.2,8.3,Thematic Dining
+508,Escape by Brewklyn, Nagawara, Bangalore,"Continental, Asian, North Indian, Pizza, Burger",2500.0,10.0,4.3,8.1,Thematic Dining
+509,Pincode 24 Bar & Bistro, Hebbal, Bangalore,"Bar Food, Continental",1000.0,10.0,4.4,8.1,Thematic Dining
+510,Jook Taproom, Indiranagar, Bangalore,"North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food",1600.0,10.0,4.4,5.1,Regional Dining
+511,Citrus - The Leela Palace," The Leela Palace, Old Airport Road", Bangalore,"North Indian, Continental, Asian, Desserts",4700.0,10.0,4.0,6.1,Regional Dining
+512,Cafe Noir, UB City, Bangalore,"Italian, Continental, French, Cafe, Pizza, Desserts, Juices, Beverages",1800.0,10.0,4.1,0.2,Fine Dining
+513,Magique, Koramangala 6th Block, Bangalore,"Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages",1700.0,10.0,4.0,5.2,Thematic Dining
+514,Toca Koramangala, Koramangala 5th Block, Bangalore,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",1400.0,10.0,4.2,4.7,Thematic Dining
+515,Float Brewery, Kalyan Nagar, Bangalore,"Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages",1500.0,10.0,4.4,7.8,Thematic Dining
+516,The Terrace at Gilly's Redefined," Gilly's Redefined, Koramangala 4th Block", Bangalore,"Continental, North Indian, Italian, Bar Food, Desserts, Chinese, Beverages",2000.0,10.0,4.4,5.3,Thematic Dining
+517,Barbecue By Punjab Grill," Mantri Square, Malleshwaram", Bangalore,"BBQ, Mughlai, North Indian, Salad, Desserts",1600.0,20.0,4.2,3.4,Specialty Dining
+518,Gulp Cocktails And Kitchen, Banashankari, Bangalore,"North Indian, Continental, Mughlai, South Indian, Modern Indian, Pasta, Pizza, Chinese",1500.0,10.0,4.3,7.0,Regional Dining
+519,Secret Story, Indiranagar, Bangalore,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages, Vietnamese, Italian",1500.0,10.0,3.9,4.9,Thematic Dining
+520,Toca Brigade, Brigade Road, Bangalore,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",1200.0,10.0,4.2,1.5,Thematic Dining
+521,Roastea, Koramangala 4th Block, Bangalore,"Coffee, Italian, Pizza, Pasta, Bakery, Cafe",1400.0,10.0,4.2,5.4,Casual Dining
+522,Nomad PizzaBar, Indiranagar, Bangalore,"Pizza, Italian, Beverages, Burger, Mexican, Pasta, Cafe",1500.0,15.0,4.6,5.0,Casual Dining
+523,Barrys Sky Lounge, Kalyan Nagar, Bangalore,"Chinese, North Indian, Oriental, Mughlai, Biryani",1000.0,15.0,4.2,8.4,Thematic Dining
+524,Macaw By Stories, Bommanahalli, Bangalore,"South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts",1800.0,20.0,4.2,11.1,Regional Dining
+525,Geometry Brewery & Kitchen, Rajajinagar, Bangalore,"Chinese, North Indian, Italian, Continental, Pizza, Desserts, Beverages",1800.0,10.0,4.3,5.7,Thematic Dining
+526,Stories Brewery & Kitchen, BTM, Bangalore,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts",1600.0,20.0,4.5,7.5,Regional Dining
+527,No Limmits Lounge And Club, Brigade Road, Bangalore,"Chinese, Continental, North Indian, Fast Food, Pizza, Beverages",2500.0,25.0,3.8,1.8,Thematic Dining
+528,Alchemy," The Chancery Pavilion, Residency Road", Bangalore,"North Indian, Continental, Biryani, Desserts, Bar Food, South Indian, Seafood, Beverages",3300.0,20.0,4.2,0.8,Regional Dining
+529,Gawky Goose, Old Airport Road, Bangalore,"Italian, Biryani, North Indian, Fast Food, Seafood, Asian, Desserts, Beverages",2200.0,15.0,4.4,6.6,Fine Dining
+560,Terrace By House Of Commons, JP Nagar, Bangalore,"Modern Indian, Continental, Asian, Chinese, North Indian, Seafood, Bar Food, Beverages",2000.0,15.0,4.6,6.4,Fine Dining
+561,Hoot, Sarjapur Road, Bangalore,"Continental, Italian, North Indian, Beverages",2000.0,10.0,4.2,11.1,Thematic Dining
+562,Three Dots & A Dash, JP Nagar, Bangalore,"North Indian, Continental, Italian",1800.0,10.0,4.3,6.8,Regional Dining
+563,Prime Golf - Brewing & Golfing, Whitefield, Bangalore,"Modern Indian, Beverages, Momos",2000.0,20.0,4.3,19.1,Fine Dining
+564,Geometry Gastropub, New BEL Road, Bangalore,"Continental, North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages",1600.0,15.0,4.3,7.9,Thematic Dining
+565,Ministry of Food - Hilton Bangalore Embassy GolfLinks," Hilton Bangalore Embassy GolfLinks, Domlur", Bangalore,"Asian, Continental, Italian, North Indian, Mughlai, Desserts, Beverages",3500.0,25.0,4.0,6.1,Thematic Dining
+566,Uru Brewpark, JP Nagar, Bangalore,"Continental, North Indian, Italian, Chinese, Asian, Pizza, Lebanese, Beverages",2200.0,10.0,4.3,7.4,Thematic Dining
+567,21st Amendment Gastrobar, Indiranagar, Bangalore,"North Indian, Fast Food, Chinese, Bar Food, Sichuan, Beverages",1700.0,10.0,4.3,5.1,Regional Dining
+568,Biergarten, Koramangala 5th Block, Bangalore,"Continental, European, BBQ, Chinese, Asian, Beverages",2500.0,10.0,4.6,4.8,Thematic Dining
+569,White Garden, Kalyan Nagar, Bangalore,"North Indian, Italian, Lebanese, Asian, Continental, Desserts",1600.0,10.0,4.3,7.8,Regional Dining
+570,Ambedo Kitchen|Taproom, JP Nagar, Bangalore,"Continental, Asian, North Indian, Italian, Pizza, Sushi",1500.0,10.0,4.5,6.8,Thematic Dining
+572,Levels Pub & Kitchen, JP Nagar, Bangalore,"Asian, South Indian, North Indian",1700.0,10.0,4.5,7.3,Thematic Dining
+573,By Chance, Brigade Road, Bangalore,"Italian, Continental",1500.0,10.0,4.2,1.4,Fine Dining
+574,House Of Commons, Koramangala 5th Block, Bangalore,"Bar Food, North Indian, Italian, Chinese, Fast Food, Continental, Beverages, Desserts",1200.0,10.0,4.3,4.7,Thematic Dining
+575,Candles  Brewhouse, RMZ Azure, Bangalore,"Italian, Continental, American, Pizza, North Indian",2500.0,10.0,4.2,9.3,Fine Dining
+576,Zaffran By TBC, Marathahalli, Bangalore,"North Indian, Mughlai, Biryani, Seafood, Kebab, Ice Cream, Desserts",1100.0,10.0,4.3,12.5,Regional Dining
+577,The Reservoire, Koramangala 5th Block, Bangalore,"North Indian, Biryani, Asian, Italian, Continental, Bar Food, Desserts, Beverages",2000.0,10.0,4.4,5.2,Regional Dining
+578,Brooks And Bonds Brewery, Koramangala 5th Block, Bangalore,"Continental, American, North Indian, Italian, Fast Food, Beverages, Desserts",2000.0,15.0,4.1,5.2,Thematic Dining
+579,Bhola & Blonde, Indiranagar, Bangalore,"North Indian, Lucknowi, Mughlai, Biryani, Fast Food, Desserts",1900.0,10.0,3.9,4.9,Regional Dining
+580,1131 Bar + Kitchen By House Of Commons, Indiranagar, Bangalore,"Finger Food, North Indian, Continental, Chinese, Italian, Asian, Desserts, Beverages",2200.0,10.0,4.5,5.1,Thematic Dining
+581,XOOX Brewmill, Koramangala 5th Block, Bangalore,"North Indian, Continental, American, Italian, Asian, Modern Indian, Pizza, Desserts",2000.0,10.0,4.3,4.6,Regional Dining
+582,Ging - Royal Orchid Central," Royal Orchid Central, MG Road", Bangalore,"Asian, Seafood, Desserts, Oriental",2500.0,25.0,4.2,2.3,Thematic Dining
+583,The Local, Kalyan Nagar, Bangalore,"Pizza, Continental, Burger, Seafood, Kerala, Finger Food, Beverages",1600.0,15.0,4.3,7.5,Casual Dining
+584,Sky Garden, Whitefield, Bangalore,"Continental, North Indian, Pizza, Asian, Pasta, Chinese, Desserts, Beverages",2000.0,25.0,4.1,12.1,Thematic Dining
+585,K-OS TheGameBar, Koramangala 7th Block, Bangalore,"Continental, Italian, North Indian, Finger Food, Asian, Fast Food",1700.0,10.0,4.3,4.6,Thematic Dining
+586,Now Boarding Café, Jayanagar, Bangalore,"Chinese, Fast Food, Sandwich, Pasta, Pizza, Desserts, Shake, Beverages",1000.0,10.0,3.9,4.3,Thematic Dining
+587,Daily Sushi, Indiranagar, Bangalore,"Sushi, Japanese, Korean, Asian, Beverages",950.0,10.0,4.4,4.8,Specialty Dining
+588,Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway," Sheraton Grand Bangalore, Brigade Gateway", Bangalore,"North Indian, Continental, Fast Food, Asian, Beverages",3500.0,15.0,4.5,6.3,Regional Dining
+589,Oyster Bar & Kitchen, HSR, Bangalore,"Continental, Bar Food, Chinese, North Indian, Beverages, Desserts",1600.0,10.0,4.5,8.2,Thematic Dining
+650,Mezera Brewery & Kitchen, JP Nagar, Bangalore,Continental,1600.0,10.0,4.3,7.2,Thematic Dining
+651,Pasta Street, JP Nagar, Bangalore,"Pasta, Pizza, Italian, Salad, Desserts, Beverages",1800.0,10.0,4.6,7.2,Other
+652,1947, Malleshwaram, Bangalore,"North Indian, Chinese, Biryani, Italian, Street Food, Salad, Desserts, Beverages",1400.0,10.0,3.7,4.7,Regional Dining
+653,Babylonia - Global Food & Cocktails, Koramangala 7th Block, Bangalore,"Continental, North Indian, Asian, Italian, Mughlai, Mediterranean, Bar Food, Desserts",1500.0,10.0,4.4,4.6,Thematic Dining
+654,The Spiceberry, Bellandur, Bangalore,"North Indian, Pasta, Pizza, Continental, Salad, Sandwich, Kebab, Desserts",1000.0,10.0,4.2,9.6,Regional Dining
+656,Aurum Brew Works, Sarjapur Road, Bangalore,"North Indian, Continental, Asian, Beverages, Desserts",300.0,10.0,4.3,12.0,Regional Dining
+657,Parika Multicuisine & Coastal Fine Dine, HSR, Bangalore,"Mangalorean, Seafood, North Indian, Asian, Chinese, South Indian, Desserts, Beverages",1300.0,10.0,4.3,8.2,Other
+658,Yellow Door - The Neighbourhood Kitchen, Koramangala 5th Block, Bangalore,"North Indian, Asian, Italian, Fast Food",1100.0,20.0,4.2,4.8,Regional Dining
+659,Auntie Fung's, New BEL Road, Bangalore,"Asian, Chinese, Thai, Korean, Burmese, Indonesian, Cantonese, Vietnamese",600.0,10.0,4.0,6.9,Thematic Dining
+660,Backstreet Brewery, Sarjapur Road, Bangalore,"Italian, Bar Food, Pizza, North Indian, Asian, Desserts, Beverages",1800.0,15.0,4.4,12.3,Fine Dining
+662,Beijing Bites, Shubh Enclave, Bangalore,"Chinese, Seafood, Thai, Rolls, Momos, Malaysian",1000.0,15.0,3.8,10.1,Thematic Dining
+663,Bramble, Jayanagar, Bangalore,"Continental, Asian, North Indian, Italian, Bar Food, Beverages",1800.0,10.0,4.3,6.3,Thematic Dining
+665,Bamey's Gastro Bar, Koramangala 5th Block, Bangalore,"Nepalese, Chinese, North Indian, Momos, Bar Food, Asian, Desserts, Tibetan",1000.0,10.0,4.5,5.0,Other
+666,Taproom By Sherlock's, JP Nagar, Bangalore,"North Indian, Oriental, Continental, Biryani, Pizza, Pasta, Desserts, Beverages",1800.0,15.0,4.3,7.4,Regional Dining
+667,Flo, Church Street, Bangalore,"Asian, Thai, Continental, Finger Food, Sushi, Desserts, Beverages",1900.0,30.0,4.1,1.4,Thematic Dining
+668,Sozo Skyline, Lavelle Road, Bangalore,"Asian, Chinese, Thai, Sushi",1800.0,10.0,4.3,0.5,Thematic Dining
+669,The Soda Factory, Nagarbhavi, Bangalore,"North Indian, Chinese, Pasta, Pizza, Fast Food, Biryani, Desserts, Beverages",1100.0,10.0,4.3,11.7,Regional Dining
+670,The Peak, Sahakara Nagar, Bangalore,"Continental, Mangalorean",1000.0,10.0,4.3,11.3,Thematic Dining
+671,Hashtag 88, Marathahalli, Bangalore,"Asian, Chinese, Salad, North Indian, Fast Food, Biryani, Desserts",1200.0,15.0,4.3,11.6,Thematic Dining
+673,154 Breakfast Club, Koramangala 4th Block, Bangalore,"Burger, Cafe, Sandwich, Street Food, Fast Food, Pancake, Asian, Desserts",1100.0,10.0,3.9,5.5,Other
+674,Gochick, HSR, Bangalore,"Burger, Fast Food",400.0,10.0,3.8,8.9,Other
+675,Orah Brew Garden, Yelahanka, Bangalore,"Asian, Continental, Desserts, European, Modern Indian",1300.0,10.0,4.3,14.3,Thematic Dining
+677,Shift Lounge & Bar, HSR, Bangalore,"Finger Food, Continental, North Indian, Salad, Seafood, Mughlai",1400.0,25.0,4.2,8.2,Thematic Dining
+678,The Black Pearl, Kadubeesanahalli, Bangalore,"BBQ, North Indian, Biryani",2100.0,15.0,4.2,11.5,Specialty Dining
+679,Just BLR, Brigade Road, Bangalore,"North Indian, Chinese, Biryani, Beverages",2500.0,10.0,4.4,1.4,Regional Dining
+680,The Bangalore Cafe, Shanti Nagar, Bangalore,"North Indian, Italian, Continental, Biryani, Chinese, Desserts",950.0,10.0,4.2,1.1,Regional Dining
+681,Stories Bar & Kitchen, Rajarajeshwari Nagar, Bangalore,"Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts",1400.0,25.0,4.4,10.4,Thematic Dining
+682,Omega IX Cocktail Bar And Global Kitchen, Sahakara Nagar, Bangalore,"North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages",1800.0,15.0,4.2,9.8,Regional Dining
+776,Zodiac Bar & Kitchen, Brookefield, Bangalore,"Continental, North Indian, Pizza, Italian, Chinese, Fast Food, Biryani, Desserts",1800.0,10.0,4.3,12.8,Thematic Dining
+777,Jamavar - The Leela Palace," The Leela Palace, Old Airport Road", Bangalore,"North Indian, South Indian",5000.0,10.0,4.3,6.1,Regional Dining
+778,Table For Tous, HSR, Bangalore,"Cafe, Bakery, Coffee, Desserts",750.0,10.0,4.9,7.6,Casual Dining
+779,Gold Rush Brews, KR Puram, Bangalore,"North Indian, Italian, Asian, Continental, American, South Indian, Beverages, Desserts",1900.0,10.0,4.4,13.4,Regional Dining
+780,Deck Of Brews, Kadubeesanahalli, Bangalore,"Continental, North Indian, Italian, Asian, Desserts, Pizza, Pasta, South Indian",1500.0,10.0,4.3,11.9,Thematic Dining
+782,The Groot, Bhartiya Mall of Bengaluru, Bangalore,"Italian, North Indian, Chinese, Burger, Pasta, Pizza, Salad, Desserts",1200.0,10.0,4.0,13.5,Fine Dining
+783,Barkaas Indo Arabic Restaurant, Koramangala 5th Block, Bangalore,"Arabian, North Indian, Biryani, Mandi, Desserts",1000.0,10.0,4.2,4.7,Other
+784,Fox In The Field," Nexus Shantiniketan, Whitefield", Bangalore,"Modern Indian, Continental, North Indian, Pizza, American, Italian, Desserts, Beverages",2000.0,10.0,4.2,14.6,Fine Dining
+785,Jamming Goat 3.0, JP Nagar, Bangalore,"North Indian, Asian, Desserts",1500.0,10.0,4.3,7.3,Regional Dining
+786,JW Kitchen - JW Marriott Bengaluru," JW Marriott Bengaluru, Lavelle Road", Bangalore,"North Indian, Continental, Mughlai, Beverages, Desserts, Asian",5000.0,25.0,4.2,69.0,Regional Dining
+787,Sriracha, UB City, Bangalore,"Asian, Oriental, Thai, Chinese, Japanese",2000.0,10.0,4.1,0.2,Thematic Dining
+788,Inanna Tap Room, Bannerghatta Road, Bangalore,"Chinese, North Indian, Burger, Pizza, Italian, Desserts",2000.0,10.0,4.2,11.0,Thematic Dining
+790,LOFT38, Indiranagar, Bangalore,"Italian, BBQ, Asian, North Indian, Fast Food, Beverages",2000.0,40.0,4.1,5.1,Fine Dining
+791,Fia's Lounge, Richmond Road, Bangalore,"Parsi, Lebanese, Beverages",1500.0,15.0,4.6,1.1,Other
+792,Gannet Bar & Kitchen, Bommanahalli, Bangalore,"Bar Food, North Indian, Mughlai, Seafood, Chinese, Continental, Oriental, Desserts",1800.0,20.0,4.3,10.9,Thematic Dining
+793,TOY BOY, Majestic, Bangalore,"Bar Food, North Indian, Pizza, Oriental",2000.0,10.0,4.2,3.5,Thematic Dining
+794,Zest, Lavelle Road, Bangalore,"North Indian, Mughlai, Kebab, Chinese, Continental, Desserts",1500.0,15.0,4.1,0.7,Regional Dining
+795,Chowki Multicuisine Restaurant, Whitefield, Bangalore,"North Indian, Chinese, Seafood, Fast Food, Biryani, Sichuan, Desserts, Beverages",700.0,15.0,4.1,15.3,Regional Dining
+796,Vanamo, Indiranagar, Bangalore,"Continental, Cafe",2000.0,10.0,4.3,5.1,Thematic Dining
+797,Roots, Koramangala 1st Block, Bangalore,"North Indian, South Indian, Chinese, Mughlai, Mangalorean, Desserts, Beverages",1600.0,10.0,4.4,6.4,Regional Dining
+798,Cocobolo, New BEL Road, Bangalore,"Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages",1000.0,10.0,4.2,7.6,Thematic Dining
+799,Vapour Brewpub And Diner, Sarjapur Road, Bangalore,"North Indian, Continental, Italian, European, Biryani, Salad, Desserts, Beverages",2200.0,15.0,4.3,11.0,Regional Dining
+800,Bamey's Restro Cafe, Koramangala 5th Block, Bangalore,"Asian, Nepalese, Momos",950.0,10.0,4.2,4.6,Thematic Dining
+801,North Star Cafe, HSR, Bangalore,"Cafe, Bakery, Beverages, Desserts, Continental, Healthy Food",800.0,10.0,4.4,8.2,Casual Dining
+802,VYANA - World Cuisine, JP Nagar, Bangalore,"Modern Indian, Oriental, Continental, Chinese, North Indian, Pizza, Italian, Desserts",1700.0,10.0,3.9,6.8,Fine Dining
+803,Playful Palette, Indiranagar, Bangalore,"Continental, Italian, Pizza, Pasta, Bakery, Desserts, Coffee, Cafe",1400.0,10.0,4.4,5.1,Thematic Dining
+804,Horizon, World Trade Center, Bangalore,"Chinese, Japanese, Asian, Salad, Thai, Desserts, Beverages",3000.0,15.0,4.5,6.1,Thematic Dining
+929,Sidewalk Bar & Kitchen, Marathahalli, Bangalore,"North Indian, Continental, Chinese, Fast Food, Beverages",1800.0,15.0,4.3,11.6,Regional Dining
+930,Barkaas- Arabic Restaurant, Marathahalli, Bangalore,"Arabian, North Indian, Mughlai, Shawarma, Fast Food, Mandi, Desserts, Beverages",1300.0,10.0,4.0,11.6,Other
+932,Pizza Brew House, New BEL Road, Bangalore,"Pizza, Pasta, Fast Food, Coffee, Beverages",950.0,15.0,4.2,7.0,Casual Dining
+933,Ishaara," Phoenix Mall of Asia, Hebbal", Bangalore,"North Indian, Mughlai, Kebab, Biryani",2500.0,10.0,4.5,11.1,Regional Dining
+934,Hydra Club & Kitchen, Koramangala 5th Block, Bangalore,"Continental, Biryani, North Indian, South Indian, Japanese, Chinese",1200.0,15.0,4.3,4.7,Thematic Dining
+935,Tiger Yaki, St. Marks Road, Bangalore,"Korean, Japanese",1000.0,10.0,3.9,0.7,Specialty Dining
+936,TYD, Hennur, Bangalore,"Asian, European, Sushi, Continental, Italian, Mexican, Beverages, Desserts",1900.0,10.0,4.5,10.8,Thematic Dining
+937,You Mee," Phoenix Mall of Asia, Hebbal", Bangalore,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",2200.0,15.0,4.5,11.1,Thematic Dining
+938,Plan B, Koramangala 7th Block, Bangalore,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",1600.0,10.0,4.1,4.6,Thematic Dining
+939,Jamie Oliver Kitchen, Indiranagar, Bangalore,"Italian, Pizza, Beverages",1500.0,10.0,4.4,4.9,Fine Dining
+940,Kyba- Sushi Dim Sums & More, Sahakara Nagar, Bangalore,"Chinese, Thai, Sushi, Japanese, Asian, Seafood, Desserts",1400.0,15.0,4.7,9.8,Thematic Dining
+941,Rumi, Indiranagar, Bangalore,"Awadhi, Mughlai, North Indian, Kebab, Desserts",1100.0,15.0,4.0,5.3,Other
+942,Big Barrel BrewPub, Rajarajeshwari Nagar, Bangalore,"Chinese, Salad, North Indian, Oriental, Mexican, Italian, Continental, Beverages",2000.0,15.0,4.2,12.0,Thematic Dining
+943,Proxy, Mahadevapura, Bangalore,"Finger Food, Street Food, Pasta, Bar Food, Desserts",1200.0,15.0,4.4,10.4,Thematic Dining
+944,Bira 91 Taproom, Koramangala 4th Block, Bangalore,"Continental, Fast Food, Bar Food, North Indian, Italian, Beverages",2500.0,10.0,4.1,6.1,Thematic Dining
+945,Aromas Of Biryani, HSR, Bangalore,"Biryani, North Indian, Seafood, Beverages",1400.0,10.0,4.1,7.8,Regional Dining
+946,BANOFFEE, HSR, Bangalore,"Cafe, Continental, Asian, Mexican, Italian, European, Beverages, Desserts",1600.0,10.0,4.1,7.9,Casual Dining
+947,Hangover Brewery, Koramangala 7th Block, Bangalore,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",2000.0,10.0,4.0,4.6,Thematic Dining
+948,Chianti, Forum South Bengaluru Mall, Bangalore,"Italian, Pizza, Pasta, Desserts, Salad",1800.0,10.0,4.7,9.9,Fine Dining
+949,Geist Brewing Co., Bhartiya Mall of Bengaluru, Bangalore,"Continental, Italian, North Indian, Modern Indian, Bar Food, Beverages, Asian, American",1500.0,10.0,4.4,13.6,Thematic Dining
+950,Sashay-Taproom Kitchen, Whitefield, Bangalore,"Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages",2000.0,20.0,4.8,13.4,Thematic Dining
+951,Boho," Building 105, Koramangala 5th Block", Bangalore,"Continental, Asian, American, Mexican, Beverages, Desserts, Korean, Italian",550.0,10.0,4.1,4.8,Thematic Dining
+952,"Torye Drink, Dine & Dance", Rajarajeshwari Nagar, Bangalore,Continental,2000.0,10.0,3.9,11.5,Thematic Dining
+953,Public - The Rooftop Bar And Kitchen, Bannerghatta Road, Bangalore,"North Indian, Biryani, Oriental, Pizza, Continental",1200.0,15.0,4.1,8.2,Regional Dining
+954,Full Circle, Rajarajeshwari Nagar, Bangalore,"Continental, Asian, North Indian, South Indian, BBQ, Bar Food, Desserts, Cafe",2200.0,10.0,4.3,11.3,Thematic Dining
+955,Thelagram, JP Nagar, Bangalore,"North Indian, Street Food, Desserts, Beverages",800.0,15.0,4.4,7.3,Regional Dining
+1000,Not Just Tamasha, Lower Parel, Mumbai,"Bar Food, Continental, Pasta, Pizza, Asian, Chinese, North Indian, Finger Food",1800.0,20.0,4.3,3.3,Thematic Dining
+1001,Goa Portuguesa, Mahim, Mumbai,"Goan, Portuguese, South Indian, Maharashtrian, Desserts, Beverages",2500.0,10.0,4.5,2.3,Regional Dining
+1002,Eight," Palladium Mall, Lower Parel", Mumbai,"Asian, Japanese, Sushi",3500.0,10.0,4.6,4.1,Thematic Dining
+1004,Therapy Cocktail Bar, Khar, Mumbai,"Bar Food, Chinese, Desserts, Beverages, Pasta, Pizza, Continental",1000.0,10.0,4.2,6.1,Thematic Dining
+1005,Hapi Beer Co.," Reclamation, Bandra West", Mumbai,"Finger Food, Asian, Continental, Italian, Bar Food, Desserts, Beverages, European",1300.0,20.0,4.2,4.5,Thematic Dining
+1008,Kenko By Manav Shah," Linking Road, Bandra West", Mumbai,"Continental, Salad, Healthy Food, Burger, Sandwich, Pasta, Juices, Beverages",1800.0,10.0,3.5,5.4,Thematic Dining
+1009,Takumi, Santacruz West, Mumbai,"Salad, Asian, Japanese, Chinese, Desserts, Thai, Sushi, Vietnamese",1500.0,10.0,4.2,8.0,Thematic Dining
+1010,Checkmate - Wine N Dine, Santacruz West, Mumbai,"North Indian, Italian, Japanese, Asian, Chinese, Continental, Pizza, Pasta",1400.0,10.0,4.5,8.0,Regional Dining
+1011,All Saints, Khar, Mumbai,"Continental, Italian, Salad, Sushi, Chinese, Desserts, Bar Food, Asian",1500.0,10.0,4.1,5.9,Thematic Dining
+1012,Pritam Da Dhaba, Juhu, Mumbai,"North Indian, Mughlai, Kebab, Seafood, Biryani, Desserts, Beverages",1600.0,15.0,3.8,8.7,Regional Dining
+1013,The Nines, Juhu, Mumbai,"Continental, Asian, North Indian, Pizza, Italian, Modern Indian, Sushi, Chinese",1800.0,10.0,4.4,11.4,Thematic Dining
+1014,Shizusan," Phoenix Marketcity, Kurla", Mumbai,"Japanese, Asian, Korean, Desserts, Chinese, Beverages",2500.0,15.0,4.4,8.4,Fine Dining
+1015,Lyla, Bandra Kurla Complex, Mumbai,"Mexican, Beverages, Desserts, American",2500.0,10.0,3.8,5.8,Specialty Dining
+1016,Pleo, Bandra East, Mumbai,"Pizza, Italian, Asian, Continental, European, North Indian, Sushi, Desserts",1500.0,10.0,4.3,6.4,Casual Dining
+1017,South Of Vindhyas - The Orchid," The Orchid, Vile Parle East", Mumbai,"Andhra, Kerala, South Indian, Chettinad, Biryani, Mangalorean, Tamil, Desserts",3000.0,20.0,4.2,8.9,Regional Dining
+1018,Lounge Bar - Hilton Mumbai International Airport," Hilton Mumbai International Airport, Chakala", Mumbai,"Finger Food, Beverages, Continental, Asian, North Indian",2800.0,35.0,4.2,10.5,Thematic Dining
+1019,Cray Craft, Marol, Mumbai,"Asian, Chinese, North Indian, Biryani, Pizza",1000.0,10.0,4.7,10.3,Thematic Dining
+1020,Doolally Taproom, Veera Desai Area, Mumbai,"Finger Food, American, Italian, Pizza, Fast Food, Beverages, Desserts",2500.0,10.0,4.6,13.3,Thematic Dining
+1021,Eve, Powai, Mumbai,"Asian, Continental, North Indian, Sushi, Pizza, Coffee, Beverages",1200.0,10.0,4.6,13.2,Thematic Dining
+1022,3 Stories - All Day Bar, Juhu, Mumbai,"Asian, Continental, North Indian, Pizza, Beverages",1500.0,10.0,4.3,11.0,Thematic Dining
+1023,Lucy Lou, Mahakali, Mumbai,"Modern Indian, Asian, Turkish",1500.0,10.0,4.1,11.4,Fine Dining
+1024,Demy, Lower Parel, Mumbai,"Sushi, Italian, Continental, North Indian, Pizza, Asian, Desserts, Beverages",2000.0,10.0,4.4,3.4,Specialty Dining
+1025,One8 Commune, Juhu, Mumbai,"Finger Food, Asian, European, Pasta, Desserts, Continental, Pizza, Mediterranean",2500.0,10.0,4.3,8.5,Thematic Dining
+1026,Que Sera Sera," Andheri Lokhandwala, Andheri West", Mumbai,"Continental, Italian, Salad, European, Desserts, Beverages",1800.0,10.0,4.4,13.6,Thematic Dining
+1027,Oriv Resto - Cafe - Bar, Borivali West, Mumbai,"North Indian, Chinese, Oriental, Continental, Italian, Fast Food, Wraps, Kebab",1400.0,10.0,4.3,25.0,Regional Dining
+1028,Oh So Silly!, Khar, Mumbai,"Continental, Salad, North Indian, Pizza, Asian, Desserts, Coffee, Beverages",2000.0,10.0,4.1,5.9,Thematic Dining
+1029,Episode One, Powai, Mumbai,"Chinese, Asian, Italian, North Indian, Sushi, Fast Food, Bar Food, Beverages",1600.0,20.0,4.4,12.7,Thematic Dining
+1030,Cream Centre - Vegetarian Legacy Since 1958," Phoenix Palladium, Lower Parel", Mumbai,"North Indian, Street Food",1900.0,10.0,4.0,4.1,Regional Dining
+1031,Rooh, Juhu, Mumbai,"North Indian, Biryani, Desserts, Awadhi, Beverages, Bar Food, Kebab, Rolls",1800.0,10.0,4.2,11.1,Regional Dining
+1032,Rizz, Kandivali West, Mumbai,"Italian, Japanese, Asian, Mediterranean, Continental, North Indian, Pizza, Desserts",1000.0,10.0,4.0,21.9,Fine Dining
+1033,Neuma, Colaba, Mumbai,"Asian, Continental, European, Mediterranean, Salad, Sandwich, Desserts, Beverages",2500.0,10.0,4.1,10.9,Thematic Dining
+1068,KOA - Cafe & Bar," Korum Mall, Khopat, Thane West", Thane,"Pizza, Pasta, North Indian, Sushi, Chinese, Desserts",1700.0,10.0,4.3,23.5,Casual Dining
+1069,Bo Reverie, Borivali West, Mumbai,"North Indian, Continental, Japanese, Thai, Asian",1500.0,10.0,4.3,23.0,Regional Dining
+1070,Mansionairre By The Roof," Wagle Estate, Thane West", Thane,"North Indian, Asian, Chinese, Continental, Italian, Japanese, Lebanese",2000.0,10.0,4.0,22.3,Regional Dining
+1071,Tanatan, Juhu, Mumbai,"North Indian, Malwani, Mughlai, Desserts",1800.0,15.0,4.4,10.7,Regional Dining
+1072,Pa Pa Ya," Inorbit Mall, Malad West", Mumbai,"Asian, Japanese, Thai, Chinese, Sushi, Desserts",1500.0,10.0,4.3,17.4,Thematic Dining
+1073,Bohoba, Malad West, Mumbai,"Modern Indian, Asian, Italian, European, Desserts, Beverages",1500.0,20.0,4.3,18.7,Fine Dining
+1074,Fairy Tale - SIP DINE DANCE, Borivali West, Mumbai,"North Indian, Biryani, Kebab, Chinese, Beverages, Continental, Pizza, Pasta",1200.0,15.0,3.9,23.6,Regional Dining
+1075,Dobaraa," Phoenix Palladium, Lower Parel", Mumbai,"North Indian, Continental, Salad, Desserts",1200.0,15.0,4.6,4.1,Regional Dining
+1076,Someplace Else," Jio World Drive, Bandra Kurla Complex", Mumbai,"North Indian, Continental, Asian, Sushi",2500.0,10.0,4.2,4.0,Regional Dining
+1077,Sigree Global Grill," Ventura Building, Powai", Mumbai,"North Indian, Biryani, Beverages",1950.0,10.0,4.2,12.4,Regional Dining
+1078,LVEL - Bar & Dinner, Sakinaka, Mumbai,"Continental, Italian, North Indian, Mexican, Desserts, Beverages",1200.0,10.0,4.2,10.6,Thematic Dining
+1079,Mitron," Linking Road, Bandra West", Mumbai,"North Indian, European, Continental, Asian, Sushi, Chinese, Desserts, Beverages",2000.0,15.0,4.2,5.8,Regional Dining
+1080,Bombay Brasserie, Colaba, Mumbai,"North Indian, South Indian, Biryani, Desserts, Beverages",1800.0,15.0,4.6,10.7,Regional Dining
+1081,Axo Bar & Kitchen," Andheri Lokhandwala, Andheri West", Mumbai,"Greek, Mediterranean, Modern Indian, Beverages, Desserts, Italian, Continental, Seafood",1800.0,20.0,4.2,13.7,Fine Dining
+1082,Gurukripa, Powai, Mumbai,"North Indian, Mughlai, Chinese, Fast Food, Rolls, Biryani, Kebab, Beverages",1700.0,10.0,4.3,11.6,Regional Dining
+1083,Fiona by Radisson Blu, Radisson Blu Mumbai International Airport, Mumbai,"North Indian, Continental, Asian, Italian, Desserts, Beverages",3500.0,20.0,4.1,10.6,Regional Dining
+1084,East Asia - Indian | Asian | Continental, Borivali West, Mumbai,"Asian, Chinese, North Indian, Sushi, Continental, Pizza, Pasta, Sichuan",1800.0,10.0,4.4,22.8,Thematic Dining
+1085,Aegyo Cafe & Bakehouse, Khar, Mumbai,"Korean, Asian, Hot Pot, Bubble Tea, Tea, Coffee, Fast Food, Desserts",900.0,10.0,4.0,7.0,Specialty Dining
+1086,Taki Taki, Lower Parel, Mumbai,"Sushi, Japanese, Asian, Thai, Chinese, Desserts",3000.0,10.0,4.6,3.5,Specialty Dining
+1087,Mia Cuccinna," Hill Road, Bandra West", Mumbai,"American, Pizza, Italian, Pasta, Panini, Salad, Beverages, Desserts",3000.0,15.0,4.0,5.1,Thematic Dining
+1088,Lotus Cafe - JW Marriott Mumbai Juhu," JW Marriott Mumbai, Juhu", Mumbai,"North Indian, Asian, Italian, Continental, Lebanese",5000.0,15.0,4.3,9.9,Regional Dining
+1089,Tattva Bar & Cafe," Peninsula Redpine, Marol", Mumbai,"Italian, Mexican, Continental",1800.0,10.0,4.4,10.4,Fine Dining
+1090,The Terrace - A Maiden Affair," Andheri Lokhandwala, Andheri West", Mumbai,"Continental, Italian, Chinese, Fast Food, Salad, Desserts",1800.0,15.0,4.3,13.7,Thematic Dining
+1091,Rude Lounge," Supreme Business Park, Powai", Mumbai,"North Indian, Italian, Chinese, Bar Food, Fast Food, Biryani",1900.0,10.0,4.2,11.7,Regional Dining
+1092,Chin Chin Chu, Juhu, Mumbai,"Asian, Japanese, Seafood, Sushi, Chinese, Desserts, Beverages",2500.0,10.0,4.4,10.9,Thematic Dining
+1093,Mool: Kitchen & Bar, Fort, Mumbai,"Modern Indian, Beverages, Desserts",1000.0,20.0,4.5,9.9,Fine Dining
+1094,The Atrangii House Sky Lounge, Sanpada, Navi Mumbai,"Chinese, Asian, Sushi, Seafood, North Indian, Oriental, Fast Food, Desserts",1800.0,10.0,4.2,16.0,Thematic Dining
+1095,Shifuku Asian Dining & Cocktail Bar," Andheri Lokhandwala, Andheri West", Mumbai,"Sushi, Asian, Korean, Japanese, Chinese, Desserts",2000.0,10.0,4.5,13.9,Specialty Dining
+1096,Plum by Bent Chair, Lower Parel, Mumbai,"Asian, Sushi, Desserts",3000.0,20.0,4.5,3.4,Thematic Dining
+1097,Courtyard Pavilion - Courtyard By Marriott Navi Mumbai, Courtyard By Marriott Navi Mumbai, Navi Mumbai,"Continental, Asian, North Indian, Italian, South Indian, Fast Food, Desserts",3200.0,10.0,4.3,18.2,Thematic Dining
+1098,Hunky Dory, Lemon Tree Mumbai Malad West, Mumbai,"Bar Food, North Indian, Asian, Japanese, European, Continental, Beverages, Desserts",1400.0,10.0,4.3,20.9,Thematic Dining
+1099,SAQI, Khar, Mumbai,"North Indian, Italian, Asian, Chinese, Pizza, Continental, Desserts, Bar Food",1800.0,15.0,4.1,6.1,Regional Dining
+1100,Canto Bar & Kitchen, Vikhroli, Mumbai,"North Indian, Continental, Asian, Italian, Chinese",2000.0,10.0,4.3,10.9,Regional Dining
+1101,Spotlight Skydeck," Wagle Estate, Thane West", Thane,"North Indian, Italian, Fast Food, Chinese, Bar Food, Street Food, Desserts, Beverages",1800.0,10.0,4.3,21.6,Regional Dining
+1170,Pondichery Cafe - Sofitel," Sofitel, Bandra Kurla Complex", Mumbai,"North Indian, European, Asian, French, Healthy Food, Beverages, Desserts",3000.0,20.0,4.0,5.7,Regional Dining
+1171,Tango Tamari," Hotel King's International, Juhu", Mumbai,"Japanese, Asian, Sushi",2000.0,10.0,4.5,10.4,Fine Dining
+1172,Razzberry Rhinoceros, Juhu, Mumbai,"Mediterranean, Italian, North Indian, Continental, Beverages, Desserts",2000.0,15.0,4.0,10.0,Fine Dining
+1173,The Bluebop Cafe, Khar, Mumbai,"Italian, Burger, Mexican, Pizza, Continental, American, Desserts, Beverages",1700.0,10.0,4.5,6.5,Fine Dining
+1174,Gosssip Corner Cafe Resto, Dahisar West, Mumbai,"Cafe, Panini, Chinese, Desserts, Beverages, North Indian, Continental, Lebanese",1500.0,15.0,4.4,26.8,Casual Dining
+1175,Zaika Fun Dining | Club Aquaria, Borivali West, Mumbai,"North Indian, Chinese, Continental, Mughlai, Beverages",1400.0,15.0,4.3,24.8,Regional Dining
+1176,The Game Palacio," Linking Road, Bandra West", Mumbai,"Pizza, Sushi, Asian, Italian, Mexican",1800.0,20.0,4.1,5.3,Casual Dining
+1177,True Tramm Trunk, Bandra Kurla Complex, Mumbai,"Finger Food, Fast Food, Continental, Pizza, North Indian, Beverages, Desserts",2500.0,10.0,4.1,6.3,Thematic Dining
+1179,Persia Darbar, Jogeshwari, Mumbai,"North Indian, Mughlai, Chinese, Asian, Seafood, Shawarma, Desserts, Beverages",1700.0,10.0,4.2,13.3,Regional Dining
+1180,Purple Penguin by Mini’s Kitchen, Veera Desai Area, Mumbai,"Continental, Modern Indian, Bar Food, Pizza, Chinese, Finger Food, North Indian, Beverages",1450.0,20.0,4.3,13.8,Thematic Dining
+1181,SpiceKlub, Lower Parel, Mumbai,"North Indian, Biryani, Rolls, Beverages, Modern Indian",1800.0,10.0,4.3,4.1,Regional Dining
+1183,The Game Ranch, Malad West, Mumbai,"Pizza, North Indian, Chinese, Burger, Italian",1600.0,15.0,4.2,18.3,Casual Dining
+1184,Fame Garden_Privé, Powai, Mumbai,"Mediterranean, European, Continental, Modern Indian, Italian, Asian",2000.0,10.0,4.3,12.9,Fine Dining
+1185,The Lantern Bar At Kandeel, Fort, Mumbai,"Chinese, North Indian, Kebab, Mughlai, Seafood, Pasta, Bar Food, Beverages",1500.0,20.0,4.4,10.0,Thematic Dining
+1186,Out Of The Blue," Le Sutra Hotel, Khar", Mumbai,"European, Continental, Italian, Fast Food",2000.0,10.0,4.3,6.9,Fine Dining
+1187,Banjara - Goldfinch Hotel," Goldfinch Hotel, Mahakali", Mumbai,"Bengali, North Indian, South Indian, Asian, Continental, Mangalorean, Desserts, Beverages",4000.0,20.0,4.4,11.4,Other
+1188,Badmaash," Andheri Lokhandwala, Andheri West", Mumbai,"North Indian, Desserts, South Indian, Asian",1800.0,10.0,4.1,13.8,Regional Dining
+1189,Liv Eatery & Bar," Wagle Estate, Thane West", Thane,"Asian, Continental, Mediterranean, North Indian, Italian, Chinese, Sushi, Desserts",1600.0,10.0,4.4,21.5,Thematic Dining
+1190,Coast & Bloom, Kohinoor Square Mall, Mumbai,"Seafood, Maharashtrian, South Indian, Asian, Chinese, Desserts, Beverages",2000.0,10.0,4.5,1.7,Specialty Dining
+1191,Heng Bok," Andheri Lokhandwala, Andheri West", Mumbai,"Korean, Beverages, Desserts, Asian",2000.0,10.0,4.1,13.7,Specialty Dining
+1192,1 BHK - Bar House Kitchen, Vashi, Navi Mumbai,"North Indian, Goan, Italian, Portuguese, Bar Food",2000.0,10.0,4.5,15.6,Regional Dining
+1193,Kofuku," Andheri Lokhandwala, Andheri West", Mumbai,"Japanese, Sushi, Rolls, Desserts, Beverages",2500.0,10.0,4.3,13.7,Fine Dining
+1194,Tuya's, Juhu, Mumbai,"North Indian, Salad, Kebab, Italian, Chinese, Street Food, Asian, Pizza",1400.0,10.0,4.3,10.7,Regional Dining
+1195,TAB - Thoughtful American Bistronomy, Lower Parel, Mumbai,"American, Mexican, Desserts, Burger",1800.0,10.0,4.3,4.1,Thematic Dining
+1196,Nusara - Ramee Guestline Hotel," Ramee Guestline Hotel, Juhu", Mumbai,"Asian, Rolls, Pizza, Chinese, Desserts",2000.0,20.0,4.3,10.7,Thematic Dining
+1197,De Aura Global Dining And Bar," Majiwada, Thane West", Thane,"North Indian, Biryani, Continental, Middle Eastern, Asian, Chinese, Sushi, Desserts",1200.0,10.0,4.4,25.4,Regional Dining
+1198,Pints Of Wisdom, Bandra Kurla Complex, Mumbai,"North Indian, Bar Food, Chinese, Biryani, Fast Food",1000.0,10.0,4.5,5.1,Regional Dining
+1199,Napoli By Shatranj," Pali Hill, Bandra West", Mumbai,"Italian, European, Desserts, Beverages, Bar Food, Pasta",3500.0,15.0,4.4,6.8,Fine Dining
+1200,Anna Idli, Fort, Mumbai,"South Indian, Sandwich, Beverages",400.0,10.0,4.4,9.8,Regional Dining
+1201,Brik, Fort, Mumbai,"Continental, Italian, Burger, Pizza, Chinese, Desserts, Beverages",1200.0,15.0,4.0,9.2,Thematic Dining
+1202,Goma -  Asian Experience," Radisson, Goregaon West", Mumbai,"Asian, Sushi, Chinese, Japanese, Beverages",2000.0,15.0,4.6,17.3,Thematic Dining
+1203,Baamee All Day Eatery, Veera Desai Area, Mumbai,"Asian, Italian, Continental, North Indian, Bakery",2500.0,10.0,4.3,13.0,Thematic Dining
+1204,Lake View Cafe - The Westin Mumbai Powai Lake, The Westin Mumbai Powai Lake, Mumbai,"North Indian, South Indian, Asian, Chinese, Italian, Continental, Mughlai, Desserts",3500.0,15.0,4.1,13.8,Regional Dining
+1308,Donna Deli," Linking Road, Bandra West", Mumbai,"Asian, Italian, Salad, Chinese, Pizza, Fast Food",1700.0,10.0,4.3,5.4,Thematic Dining
+1309,Idlay Cafe, Chakala, Mumbai,"South Indian, Coffee, Tea, Desserts",350.0,10.0,4.1,10.1,Regional Dining
+1310,Sesame - Hyatt Centric Juhu Mumbai, Hyatt Centric Juhu, Mumbai,"Asian, Sushi, European, Pizza, Japanese, Salad, Beverages, Desserts",1000.0,15.0,4.6,8.8,Thematic Dining
+1312,La Cena By Di Mora," Wagle Estate, Thane West", Thane,"Asian, Mexican, Pizza, Italian, Continental, Spanish, Finger Food, Desserts",1800.0,20.0,3.9,21.6,Thematic Dining
+1314,August Cafe, Khar, Mumbai,"Cafe, Beverages, Italian, Continental, Asian, Healthy Food, Mediterranean, Desserts",1200.0,20.0,4.6,6.4,Casual Dining
+1315,Mainland China, Veera Desai Area, Mumbai,"Chinese, Asian, Seafood, Japanese, Sushi, Desserts, Beverages",2000.0,15.0,4.5,14.0,Thematic Dining
+1316,Roots Of India," Times Square, Marol", Mumbai,"North Indian, Asian, Chinese, Biryani, Mughlai, Pizza, Desserts, Beverages",2000.0,10.0,4.2,10.5,Regional Dining
+1317,Bombay Martini, Powai, Mumbai,"Chinese, Fast Food, North Indian, Biryani, Desserts, Beverages",1400.0,15.0,4.3,12.3,Thematic Dining
+1318,The Brooks Bistro, Malad West, Mumbai,"Pizza, Burger, Fast Food, Coffee",600.0,20.0,4.5,18.0,Casual Dining
+1319,Mulk, Veera Desai Area, Mumbai,"Street Food, North Indian, Kebab, Mughlai, Biryani, BBQ, Beverages, Desserts",1800.0,10.0,4.6,13.8,Other
+1321,Bombay Republic, Marol, Mumbai,"Asian, Oriental, North Indian, Italian, Cantonese, Beverages, Chinese, Bar Food",1000.0,15.0,4.3,9.7,Thematic Dining
+1322,Asia Kitchen By Mainland China, Kohinoor Square Mall, Mumbai,"Chinese, Sushi, Asian, Rolls, Seafood, Desserts, Beverages",1600.0,15.0,4.6,1.8,Thematic Dining
+1323,1441 Pizzeria, Fort, Mumbai,"Pizza, Pasta, Italian, Desserts, Beverages",1400.0,15.0,4.5,10.3,Casual Dining
+1324,Yoko Sizzlers, Santacruz West, Mumbai,"Chinese, Burger, Sandwich, Pizza, Seafood, Fast Food, Desserts, Beverages",2500.0,10.0,4.3,6.9,Thematic Dining
+1325,Nosh & Beyond, Marol, Mumbai,"Continental, Italian, Mexican, Middle Eastern, North Indian, Salad, Desserts, Beverages",1200.0,10.0,4.6,10.2,Thematic Dining
+1326,Sorozai - Goan Bar & Restaurant," Versova, Andheri West", Mumbai,"Bar Food, Goan, Seafood, Mexican, Salad",1200.0,10.0,4.4,13.4,Thematic Dining
+1327,Silk Route, Juhu, Mumbai,"North Indian, Continental, Asian, Bar Food, Italian, Middle Eastern, Beverages",1400.0,20.0,4.2,10.6,Regional Dining
+1328,Cafe Crema - Peninsula Grand Hotel, Sakinaka, Mumbai,"North Indian, Pizza, Sushi, Chinese, Asian, Pasta, Desserts, Beverages",1400.0,15.0,4.3,10.1,Regional Dining
+1329,Effingut, Colaba, Mumbai,"Mexican, Continental, North Indian, Beverages",3000.0,10.0,4.4,10.7,Specialty Dining
+1330,Corkage & Co., Powai, Mumbai,"American, Andhra, Asian, Arabian, Afghani, Biryani",1000.0,10.0,4.3,11.7,Thematic Dining
+1331,Buzz N Banter, Kopar Khairane, Navi Mumbai,"Chinese, North Indian, Biryani, Italian, South Indian, Seafood, Kebab",1000.0,10.0,4.5,19.7,Thematic Dining
+1332,Sigree, Vashi, Navi Mumbai,"North Indian, Mughlai, Kebab, Biryani, Fast Food, Desserts, Beverages",2000.0,10.0,4.1,15.6,Regional Dining
+1334,Gosssip Corner, Borivali West, Mumbai,"Cafe, Italian, Fast Food, Salad, Desserts, Beverages",1200.0,10.0,3.9,24.7,Casual Dining
+1335,Thai Naam," The Orb, Marol", Mumbai,"Thai, Asian, Chinese, Desserts",2500.0,15.0,4.9,9.7,Specialty Dining
+1336,Rasoi Kitchen & Bar, Khar, Mumbai,"North Indian, Seafood, Chinese, Maharashtrian, Asian, Desserts",1800.0,15.0,4.5,5.8,Regional Dining
+1337,"Nazaara , Marriott", Turbhe, Navi Mumbai,"Awadhi, North Indian, Seafood, Desserts, Modern Indian, Beverages, Biryani, Continental",2500.0,15.0,4.4,18.1,Other
+1338,Casper's Bar And Kitchen," Satra Plaza, Vashi", Navi Mumbai,"Bar Food, North Indian, Biryani, Oriental, Salad, Pizza, Desserts, Beverages",1750.0,15.0,4.3,17.4,Thematic Dining
+1473,The Earth Plate - Sahara Star," Sahara Star, Vile Parle East", Mumbai,"Italian, Asian, Mediterranean, North Indian",5000.0,25.0,4.3,8.7,Fine Dining
+1474,Sirocco," Versova, Andheri West", Mumbai,"Finger Food, North Indian, Pizza, Pasta, Salad, Chinese, Coffee, Beverages",1800.0,10.0,4.1,14.1,Thematic Dining
+1475,Shree Gomateshwara Bhavan, Malad West, Mumbai,"South Indian, Fast Food",500.0,15.0,3.9,18.0,Regional Dining
+1476,Òsteria, Veera Desai Area, Mumbai,"Continental, European, Italian, Mexican, Pizza, Asian, Desserts, American",2000.0,15.0,4.5,13.4,Thematic Dining
+1478,La Veggie, Chowpatty, Mumbai,"North Indian, Continental, Chinese, Italian, Mexican, Pizza, Pasta, Beverages",1700.0,10.0,4.1,8.2,Regional Dining
+1479,Rasoi, Dadar East, Mumbai,"North Indian, Seafood, Chinese, Desserts, Beverages, Malwani, Asian, Maharashtrian",1800.0,15.0,4.4,1.2,Regional Dining
+1480,Something's Fishy - The International By Tunga," Tunga International, Mahakali", Mumbai,"North Indian, Asian, Continental, Seafood, Oriental, Chinese, Desserts, Beverages",2500.0,10.0,4.3,11.2,Regional Dining
+1481,Makabo, Kandivali West, Mumbai,"Chinese, North Indian, Pizza, Rolls, Beverages",1750.0,10.0,4.3,21.1,Thematic Dining
+1482,D'aromas Coffee, Malad West, Mumbai,"Italian, Burger, Sandwich, Street Food, Shake, Tea",750.0,20.0,4.4,19.7,Fine Dining
+1483,Aqua, CBD-Belapur, Navi Mumbai,"North Indian, Mediterranean, Sandwich, Wraps, Burger, Desserts",1500.0,25.0,4.3,19.0,Regional Dining
+1484,Uttam Da Dhaba," Uttam Nivas, Marol ", Mumbai,"North Indian, Mughlai, Biryani, Chinese, Sichuan, Seafood",700.0,10.0,4.1,11.2,Regional Dining
+1485,Global Buffet - Svenska Design Hotel," Svenska Design Hotel, Andheri West", Mumbai,"Continental, North Indian, Chinese",2500.0,40.0,4.1,13.5,Thematic Dining
+1486,Barley Bistro & Bar, Malad West, Mumbai,"North Indian, Biryani, Asian, Continental, Italian, Fast Food, Desserts",1000.0,10.0,4.3,18.5,Regional Dining
+1487,Si Nonna’s – The Original Sourdough Pizza," Fun Republic Mall, Veera Desai Area", Mumbai,"Pizza, Italian, Cafe",1200.0,10.0,4.6,13.3,Casual Dining
+1488,Imlee The Chat Gali by Neeti Goel & Curly Tales," Pali Hill, Bandra West", Mumbai,"Street Food, Desserts, Beverages",300.0,10.0,2.9,5.4,Other
+1489,The Coconut Boy," Pali Hill, Bandra West", Mumbai,"Goan, Portuguese",1000.0,10.0,4.3,5.6,Regional Dining
+1490,Sannidhi Bar and Kitchen, Kandivali West, Mumbai,"Continental, Chinese, North Indian, Beverages, Pizza, Biryani, Pasta",1200.0,10.0,4.4,20.7,Thematic Dining
+1491,Madras Diaries," Linking Road, Bandra West", Mumbai,"South Indian, Maharashtrian, Desserts",700.0,10.0,3.9,5.3,Regional Dining
+1492,Shy," Cubic Mall, Chembur", Mumbai,"Continental, Asian, Italian, North Indian, Chinese, Desserts",1800.0,10.0,4.4,5.8,Thematic Dining
+1493,Hana Pan Asian Kitchen and Bar," Naupada, Thane West", Thane,"Asian, Chinese, Sushi, Desserts, Cantonese, Japanese, Korean, Thai",1600.0,10.0,4.6,22.7,Thematic Dining
+1494,Ruby Talkies, Sakinaka, Mumbai,"Continental, Italian, North Indian, Salad, Pasta, Healthy Food, Street Food, Desserts",1500.0,15.0,4.4,10.3,Thematic Dining
+1495,Bustling Brew Bistro Cafe," Wagle Estate, Thane West", Thane,"Cafe, Beverages, Italian, Chinese, Fast Food, Salad, Sushi, Desserts",700.0,15.0,4.7,21.9,Casual Dining
+1496,On The Docks, Fort, Mumbai,"Chinese, Continental, Italian, Pizza, Pasta, North Indian, Bar Food, Beverages",1200.0,10.0,4.2,9.1,Thematic Dining
+1497,Kissa Stories Over Food," Andheri Lokhandwala, Andheri West", Mumbai,"Asian, Sushi, Italian, Pizza, Modern Indian, Burger, Desserts, Continental",1400.0,15.0,4.3,14.4,Thematic Dining
+1498,Three 60 Daily Bar & Kitchen," Versova, Andheri West", Mumbai,"Bar Food, North Indian, Mughlai, Biryani, Kebab, Chinese, Seafood, Desserts",1000.0,15.0,4.4,13.0,Thematic Dining
+1499,Western Tadka, Borivali West, Mumbai,"North Indian, Chinese, Biryani",1200.0,10.0,4.0,23.0,Regional Dining
+1500,Sterling By Madras Square, Nungambakkam, Chennai,"Continental, Italian, Chinese, Pasta, Asian, Pizza, Salad, Burger",1000.0,10.0,4.3,3.6,Thematic Dining
+1501,Dil Se Rasoi, Kilpauk, Chennai,"Chinese, North Indian, Street Food, Sandwich, Shake, Desserts, Beverages",1000.0,10.0,3.7,2.8,Thematic Dining
+1503,Marina Sands," Ramada, Egmore", Chennai,"Seafood, North Indian, Chinese, Desserts",1000.0,20.0,3.6,1.0,Specialty Dining
+1504,Gujraj Veg Restaurant, Park Town, Chennai,"South Indian, Chinese, North Indian, Thai, Ice Cream, Beverages",1000.0,10.0,3.8,0.4,Regional Dining
+1505,Pitchside Blue, Royapettah, Chennai,"Continental, North Indian, Chinese",1200.0,15.0,3.8,3.3,Thematic Dining
+1506,Amalfi Italiana, Purasavakkam, Chennai,"Italian, Pizza, Pasta",1000.0,10.0,4.1,2.2,Fine Dining
+1507,Grand Anjappar, Anna Nagar East, Chennai,"Biryani, Chinese",200.0,10.0,4.4,5.4,Regional Dining
+1508,Gully Baar, Kilpauk, Chennai,"North Indian, Continental, Fast Food, Seafood",1400.0,10.0,4.3,4.0,Regional Dining
+1509,Pasumpon, T. Nagar, Chennai,"South Indian, North Indian, Mughlai, Seafood, Chinese, Desserts",650.0,10.0,3.6,5.9,Regional Dining
+1510,Sundays, Anna Nagar East, Chennai,"Italian, Continental, Asian, North Indian, South Indian, European, Beverages",1800.0,10.0,4.7,4.9,Fine Dining
+1511,Steam & Whistles - Grand by GRT Hotels, Grand by GRT Hotels, Chennai,"Finger Food, Japanese, Asian, Chinese, North Indian, South Indian",3000.0,25.0,4.6,5.6,Thematic Dining
+1513,Million Drinks, Vadapalani, Chennai,"Bar Food, North Indian, Chinese, Continental, Italian, Biryani, Desserts",1400.0,10.0,4.0,7.1,Thematic Dining
+1516,Sky | Curated Asian Dining - The Residency Towers, T. Nagar, Chennai,"Asian, North Indian, Chinese, Biryani, Sushi, Desserts",2500.0,10.0,4.4,5.6,Thematic Dining
+1517,The Thief, Nungambakkam, Chennai,"North Indian, Continental, Italian, Asian, Thai, Beverages, Desserts",2600.0,10.0,4.2,4.3,Regional Dining
+1518,Marmoris Beach Lounge, Mahabalipuram, Chennai,"North Indian, Chinese, Continental, Italian, Beverages, Desserts",1500.0,10.0,4.6,52.4,Regional Dining
+1519,IGNNA  By Midnight Sun, Nungambakkam, Chennai,"Mediterranean, Desserts, Continental, Lebanese, Middle Eastern, Moroccan, Kebab, Salad",2000.0,15.0,4.2,4.2,Fine Dining
+1520,Glow Cafe, Nungambakkam, Chennai,"Cafe, Beverages, Fast Food",750.0,10.0,4.3,3.4,Casual Dining
+1522,The Bistrograph, Adyar, Chennai,"Cafe, Coffee, Italian, Pizza, Continental, Desserts, Shake, Beverages",1000.0,10.0,4.4,9.7,Casual Dining
+1523,SOS - Same Old Story, Thousand Lights, Chennai,"Continental, Italian, North Indian, Chinese, Asian",2200.0,20.0,4.3,3.5,Thematic Dining
+1524,Vasco's - Hilton Chennai," Hilton Chennai, Guindy", Chennai,"North Indian, Continental, Asian, Italian, Beverages, Desserts",4000.0,15.0,4.2,10.3,Regional Dining
+1525,The Void, Anna Nagar East, Chennai,"South Indian, North Indian, Seafood, Italian, Continental, Fast Food, Desserts, Beverages",2500.0,10.0,4.2,5.1,Regional Dining
+1528,Coal Barbecues, Velachery, Chennai,"BBQ, North Indian, Chinese, South Indian, Seafood, Desserts",1600.0,10.0,4.3,12.3,Specialty Dining
+1529,Koox," Novotel Chennai, Nandanam", Chennai,"Japanese, Sushi, Sichuan",4000.0,10.0,4.3,6.6,Fine Dining
+1530,Tapas Me, Anna Nagar West, Chennai,"Asian, European, Continental, Desserts, Beverages",1500.0,10.0,4.3,8.0,Thematic Dining
+1531,Sin & Tonic, T. Nagar, Chennai,"North Indian, Italian, BBQ, Wraps, Pizza, Desserts, Bar Food",2700.0,15.0,4.5,5.4,Regional Dining
+1532,Hub at ECR, Injambakkam, Chennai,"North Indian, Continental, Italian, Pizza, Kebab, Seafood",2500.0,10.0,4.3,16.8,Regional Dining
+1533,Far East, Nungambakkam, Chennai,"Chinese, Asian, Japanese, Korean, Sushi, Beverages",1000.0,10.0,4.5,3.8,Thematic Dining
+1534,The Tuscan Table, RA Puram, Chennai,"Cafe, Coffee, Sandwich, Tea, Beverages",1300.0,10.0,4.0,6.7,Casual Dining
+1536,Mirosh - All Day Cafe, RA Puram, Chennai,"Continental, Asian, Chinese",1600.0,10.0,4.2,6.4,Thematic Dining
+1538,Purple Chameleon," Phoenix Market City, Velachery", Chennai,"Fast Food, Chinese, North Indian, Asian",1800.0,10.0,4.4,11.8,Casual Dining
+1539,Asvah 24, Neelangarai, Chennai,"French, Italian, Continental, Pasta, Desserts, Coffee, Beverages",1800.0,10.0,4.3,14.9,Fine Dining
+1540,J.Hind - Grand By GRT Hotels, Grand by GRT Hotels, Chennai,"North Indian, Mughlai, South Indian",3000.0,15.0,4.4,5.6,Regional Dining
+1541,Enoki, Egmore, Chennai,"Sushi, Japanese, Asian, Thai, Desserts, Seafood, Beverages",1000.0,15.0,4.4,0.9,Specialty Dining
+1542,3 Layers on the ECR, Injambakkam, Chennai,"Italian, Asian, North Indian, Kebab, Bar Food, Salad, Desserts, Beverages",2500.0,10.0,4.2,19.7,Fine Dining
+1543,Zonkk, Medavakkam, Chennai,"Continental, Salad, Street Food, Pizza, Pasta, Bar Food",1800.0,10.0,4.5,20.2,Thematic Dining
+1544,27 Culinary Street, Mylapore, Chennai,"South Indian, Pasta, Street Food, North Indian",1000.0,20.0,4.1,4.4,Regional Dining
+1545,Mezze, Alwarpet, Chennai,"Middle Eastern, Continental, Fast Food, Beverages, Desserts",1200.0,10.0,4.7,6.5,Fine Dining
+1546,Off The Record, Nungambakkam, Chennai,"European, Continental, North Indian, Pizza, Pasta, Desserts, Beverages",1800.0,15.0,4.2,4.2,Fine Dining
+1547,Delhi Highway, Nungambakkam, Chennai,North Indian,1000.0,10.0,4.4,3.7,Regional Dining
+1596,East Coast At Madras Square, Neelangarai, Chennai,"Salad, Continental, North Indian, Italian, Asian, Beverages",2000.0,10.0,4.6,14.3,Thematic Dining
+1597,The Summer House Eatery, Alwarpet, Chennai,"Cafe, Mexican, Italian, Continental, Fast Food, Desserts, Beverages",1200.0,15.0,4.2,5.6,Casual Dining
+1598,The Great Kabab Factory - Radisson Blu," Radisson Blu, Egmore", Chennai,"North Indian, Mughlai, Kebab, Desserts",3800.0,20.0,4.1,2.4,Regional Dining
+1599,Pan Sauce Poetry, Abhiramapuram, Chennai,"European, Continental, Italian, Desserts, Beverages",1200.0,10.0,4.1,6.5,Fine Dining
+1600,Diff 42 - Resto Lounge, Medavakkam, Chennai,"Continental, North Indian, Chinese, Finger Food",1200.0,15.0,4.4,20.3,Thematic Dining
+1601,22 Constanzaa, Abhiramapuram, Chennai,"Mediterranean, Turkish, Burger, Sandwich, Desserts, Beverages",1700.0,10.0,4.7,6.1,Fine Dining
+1602,KoKoMMo,"  InterContinental Chennai Mahabalipuram Resort, East Coast Road (ECR)", Chennai,Continental,1800.0,15.0,4.2,38.8,Thematic Dining
+1603,Bazaar - All Day Diner - Grand by GRT Hotels, Grand by GRT Hotels, Chennai,"North Indian, South Indian, Continental, Asian, Desserts, Beverages",3300.0,15.0,4.3,5.6,Regional Dining
+1604,Garrison," The King's Hotel, Egmore", Chennai,"North Indian, Continental, Italian, Fast Food, Mexican, Desserts, Beverages",3000.0,15.0,4.7,2.1,Regional Dining
+1605,AsianKatha, Nungambakkam, Chennai,"Japanese, Singaporean, Chinese, Asian, Indonesian, Thai, Burmese, Malaysian",1500.0,10.0,4.3,3.6,Fine Dining
+1606,The Mayflower, Anna Nagar East, Chennai,Continental,2000.0,10.0,4.3,5.6,Thematic Dining
+1607,Trella," Jaag Hotels, T.Nagar", Chennai,"Continental, Fast Food, Asian, Italian, Chinese, North Indian, Desserts, Bar Food",1800.0,15.0,4.2,5.1,Thematic Dining
+1608,Surf Turf, Kovalam, Chennai,"Continental, Chinese, Italian, Seafood, Desserts, Coffee, Juices, Beverages",700.0,10.0,4.1,33.1,Thematic Dining
+1609,Kipling Cafe," Kipling, East Coast Road (ECR)", Chennai,"Continental, Asian, North Indian, Chinese, Pizza, Desserts, Beverages",1600.0,10.0,4.1,21.0,Thematic Dining
+1610,BTL, Egmore, Chennai,"North Indian, South Indian, Continental, Asian, Salad, Fast Food, Desserts, Beverages",1800.0,15.0,4.0,1.3,Regional Dining
+1611,Dank, T. Nagar, Chennai,"Bar Food, Desserts, Mediterranean, North Indian, Pizza, Beverages",1800.0,10.0,4.4,5.6,Thematic Dining
+1612,Monkey Bar, Anna Nagar West, Chennai,"North Indian, Burger, Pizza, Italian, Bar Food",2500.0,10.0,4.3,8.0,Regional Dining
+1613,The Old Potion House, Adyar, Chennai,"Italian, Cafe, Continental, Coffee, Desserts, European",1000.0,10.0,3.8,9.3,Fine Dining
+1615,Kommune, T. Nagar, Chennai,"Bar Food, Continental, Asian, South Indian, Pizza, Pasta, Desserts, Beverages",2000.0,15.0,4.3,5.2,Thematic Dining
+1616,Pallavas, Nungambakkam, Chennai,"Continental, South Indian, Chinese, Biryani, Kerala, Andhra, Seafood, Desserts",1100.0,10.0,4.1,4.3,Thematic Dining
+1618,6th Avenue, Anna Nagar West, Chennai,"North Indian, Continental, Asian, Seafood, Finger Food, Desserts, Beverages",1800.0,10.0,4.2,6.3,Regional Dining
+1619,Pind, Velachery, Chennai,"North Indian, Chinese, Street Food, Desserts, Beverages",1100.0,10.0,4.2,13.1,Regional Dining
+1620,Texas Bar & Kitchen, T. Nagar, Chennai,"Continental, South Indian, North Indian, Chinese, Beverages, Bar Food",2000.0,15.0,4.5,5.1,Thematic Dining
+1621,Filli Cafe, Thousand Lights, Chennai,"Cafe, Coffee, Fast Food, Street Food, Shake, Beverages",800.0,10.0,4.3,3.3,Casual Dining
+1622,The Reef - Sheraton Grand," Sheraton Grand, Neelangarai", Chennai,"North Indian, American, Continental, Beverages, Desserts",3000.0,15.0,4.4,37.9,Regional Dining
+1623,Haunted, Mylapore, Chennai,"Chinese, North Indian, Desserts, Beverages",1100.0,10.0,4.5,4.4,Thematic Dining
+1624,MKC - Madras Kitchen Company," The Westin Chennai, Velachery", Chennai,"South Indian, Asian, North Indian, Desserts, Beverages",2500.0,20.0,4.7,11.8,Regional Dining
+1625,Animal Restobar, Ashok Nagar, Chennai,"North Indian, South Indian, Italian, Chinese, Sichuan, Bar Food",1000.0,15.0,4.4,7.8,Regional Dining
+1626,Mathsya, Adyar, Chennai,"South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages, Shake",950.0,10.0,3.6,8.7,Regional Dining
+1627,The Beach Terrace, Injambakkam, Chennai,"Pizza, Italian, Beverages, Cafe",2000.0,10.0,3.9,19.0,Casual Dining
+1629,Est - Hilton Chennai," Hilton Chennai, Guindy", Chennai,"Continental, Cafe, Desserts, Italian, North Indian, Beverages, Coffee",1800.0,15.0,3.9,10.3,Thematic Dining
+1630,The Living Room, Anna Nagar East, Chennai,"North Indian, Pasta, Italian, Fast Food, Pizza, Desserts",2000.0,10.0,4.5,5.9,Regional Dining
+1631,Cibo, Anna Nagar East, Chennai,"Continental, North Indian, Biryani, Italian, Fast Food",1000.0,10.0,3.7,5.6,Thematic Dining
+1632,Impasta, Nungambakkam, Chennai,"Italian, Desserts, Beverages, Pizza, Pasta, Cafe, Continental, Seafood",1400.0,10.0,4.2,2.9,Fine Dining
+1633,101 Resto Bar, Anna Nagar West, Chennai,"Asian, Continental, North Indian, Chinese, Desserts, Bar Food, Beverages",1800.0,15.0,4.4,8.4,Thematic Dining
+1634,B'Veg, Gopalapuram, Chennai,"Biryani, Chinese, North Indian, Fast Food, Pizza, Continental, Shake, Beverages",700.0,10.0,4.1,4.0,Regional Dining
+1635,The Brick Oven," The Accord Metropolitan, T. Nagar", Chennai,"South Indian, North Indian, Healthy Food, Continental, Sandwich, Pizza, Desserts, Beverages",4000.0,15.0,4.3,5.1,Regional Dining
+1725,The Great Kebab Factory," Radisson Blu, GST Road", Chennai,"North Eastern, North Indian, Kebab",3000.0,15.0,4.5,13.4,Regional Dining
+1726,Message In A Bottle, Egmore, Chennai,"Bar Food, North Indian, Chinese, Continental, Beverages",1800.0,15.0,4.2,0.9,Thematic Dining
+1727,The Beach By Madras Square, Kanathur, Chennai,"Continental, Modern Indian, Asian, Chinese, Seafood",1000.0,10.0,4.3,23.7,Thematic Dining
+1728,Xtaze Experience, Besant Nagar, Chennai,"Italian, Continental, Desserts, Cafe, Coffee",1200.0,15.0,4.3,9.8,Fine Dining
+1729,Gardenia Restaurant - Accord Chrome, Chromepet, Chennai,"North Indian, Seafood, South Indian, Salad, Fast Food, Beverages",1300.0,15.0,4.0,20.3,Regional Dining
+1730,Azzuri Bay, Adyar, Chennai,"Italian, Mediterranean, Thai, Chinese, Asian, Seafood, Desserts, Beverages",1400.0,15.0,4.2,8.3,Fine Dining
+1732,Smoke Hub Barbeque, T. Nagar, Chennai,"Chinese, North Indian, South Indian, Seafood, Kebab, Mughlai, Fast Food, Desserts",2200.0,30.0,3.5,6.1,Thematic Dining
+1733,Roger That, Mogappair, Chennai,"South Indian, Continental, Seafood, Desserts, Beverages",1000.0,10.0,4.0,10.5,Regional Dining
+1734,Libarrel, Mylapore, Chennai,"Continental, North Indian, Italian",1200.0,25.0,4.3,4.3,Thematic Dining
+1735,The Square - Novotel Chennai OMR," Novotel Chennai, OMR", Chennai,"Continental, Italian, Pizza, North Indian, Desserts, Beverages",3000.0,15.0,4.2,20.3,Thematic Dining
+1736,Spice Haat - Hyatt Regency," Hyatt Regency, Teynampet", Chennai,"North Indian, South Indian, Asian, Continental, Fast Food, Pizza, Desserts",2800.0,10.0,4.2,5.1,Regional Dining
+1738,Locofeast, Nungambakkam, Chennai,"North Indian, Continental, Seafood, Fast Food, Shake, Beverages",950.0,15.0,4.1,3.8,Regional Dining
+1739,Dee Zoca Multicuisine Restaurant, Ramapuram, Chennai,"Chinese, South Indian, North Indian, Italian",300.0,10.0,3.7,11.3,Thematic Dining
+1740,Convo @ C06, Thousand Lights, Chennai,"Continental, Cafe, Coffee, North Indian, Pizza",1300.0,15.0,3.4,3.4,Thematic Dining
+1741,Takkt Southern Cafe, Maduravoyal, Chennai,"Cafe, Continental, Coffee, Beverages, Ice Cream, Desserts",300.0,10.0,4.2,13.0,Casual Dining
+1742,Limited Edition - The Premium Lounge, Adyar, Chennai,"Continental, Italian",1500.0,10.0,4.2,8.7,Thematic Dining
+1743,Hola, Citadines, Chennai,"Chinese, North Indian, Italian, Mexican, Sichuan, Desserts, Beverages",1400.0,10.0,4.1,20.9,Thematic Dining
+1744,Ciclo Cafe, Anna Nagar East, Chennai,"Cafe, Sandwich, Continental, North Indian, Asian, Italian, Desserts, Beverages",1500.0,10.0,4.0,4.9,Casual Dining
+1745,Sandy's Chocolate Laboratory, Nungambakkam, Chennai,"Cafe, Shake, Beverages, Continental, Fast Food, Desserts, Pasta",900.0,10.0,4.4,3.5,Casual Dining
+1746,Cafe G - Holiday Inn," Holiday Inn Chennai, OMR", Chennai,"Continental, Asian, Italian, North Indian, South Indian, Healthy Food, Desserts, Beverages",2500.0,20.0,4.1,11.7,Thematic Dining
+1747,Asian Station, Anna Nagar East, Chennai,"Asian, Chinese, Sushi, Momos, Sichuan, Beverages, Desserts",1800.0,10.0,4.1,5.8,Thematic Dining
+1748,TIKI TAKO, Okkiyampet, Chennai,"Chinese, Burger, Sandwich, Bar Food, Desserts",2500.0,15.0,4.0,17.5,Thematic Dining
+1749,The Avenue Cafe By Bronies, Adyar, Chennai,"Desserts, Pasta, Salad, Beverages",800.0,10.0,3.3,9.3,Other
+1751,The Melting Pot: Market Cafe,"  InterContinental Chennai Mahabalipuram Resort, East Coast Road (ECR)", Chennai,"North Indian, South Indian, Continental, Fast Food, Pasta, Asian",1900.0,15.0,4.4,38.8,Regional Dining
+1752,Dhani, Kaldan Samudhra Palace, Chennai,"North Indian, South Indian, Continental, Asian, Chinese, Pizza, Desserts",5700.0,10.0,4.0,49.2,Regional Dining
+1753,Royal Indianaa - The Accord Metropolitan," The Accord Metropolitan, T. Nagar", Chennai,"South Indian, North Indian",3700.0,10.0,4.4,5.2,Regional Dining
+1754,The Greenhouse Barbecue, Kilpauk, Chennai,"BBQ, North Indian, Beverages, Desserts",1700.0,10.0,4.4,1.9,Specialty Dining
+1755,On D Roof Restaurant, Anna Nagar East, Chennai,"Chinese, North Indian, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages",1000.0,10.0,3.9,5.7,Thematic Dining
+1756,Lafayette By Mug Cakes, Nungambakkam, Chennai,"Italian, American, Desserts",1100.0,10.0,4.1,4.2,Fine Dining
+1757,Noci Adante, Royapettah, Chennai,"South Indian, North Indian, Chinese, Italian, Seafood, Salad, Burger, Desserts",2000.0,10.0,4.3,2.9,Regional Dining
+1758,Ichaas Restaurant, Anna Nagar West, Chennai,"South Indian, North Indian",1500.0,10.0,3.5,7.7,Regional Dining
+1759,Lower Deck," Hotel Park Elanza, Nungambakkam", Chennai,"Bar Food, Chinese, Pizza, Beverages",1900.0,15.0,3.7,4.2,Thematic Dining
+1760,Little North, Kilpauk, Chennai,"North Indian, Chinese, Beverages, Desserts, Shake, Sichuan, Ice Cream",950.0,10.0,4.1,3.6,Regional Dining
+1761,Lyfe By Soul Garden Bistro, Abhiramapuram, Chennai,"Healthy Food, Salad, North Indian, Continental, Pizza, Oriental, Chinese, Fast Food",950.0,10.0,4.0,5.8,Other
+1762,Tora, Adyar, Chennai,"Chinese, Pizza, Continental, Italian",1000.0,15.0,4.2,8.6,Thematic Dining
+1763,Colony - The Raintree," The Raintree, Alwarpet", Chennai,"Italian, North Indian, South Indian, Continental, Fast Food, Beverages, Desserts",3300.0,20.0,4.1,6.4,Fine Dining
+1894,R&G - Green Park Hotel," Green Park Hotel, Vadapalani", Chennai,"North Indian, BBQ, Chinese",2800.0,20.0,4.2,7.6,Regional Dining
+1895,Waterside - Feathers A Radha Hotel," Feathers, A Radha Hotel", Chennai,"Salad, Fast Food, Chinese, Italian, North Indian, South Indian, Desserts",3500.0,10.0,4.0,11.8,Thematic Dining
+1896,Oasis - Radisson Blu," Radisson Blu, Egmore", Chennai,"North Indian, Chinese, Continental, South Indian, Italian, Beverages",3700.0,25.0,4.0,2.5,Regional Dining
+1897,7 Bean Coffee, Egmore, Chennai,"Cafe, Coffee, Desserts, Beverages",300.0,10.0,4.3,2.2,Casual Dining
+1898,Spice It - ibis Chennai City Centre, ibis Chennai City Centre, Chennai,"North Indian, Chettinad, Finger Food, Fast Food, Desserts, Beverages, Shake",1600.0,15.0,4.1,3.3,Regional Dining
+1899,Aloe, Nungambakkam, Chennai,"North Indian, South Indian, Desserts, Thai, Chinese, Asian, Biryani",1200.0,10.0,4.5,3.6,Regional Dining
+1900,Spice It - IBIS Chennai OMR," IBIS Chennai, OMR", Chennai,"Tibetan, Mexican, North Indian, Chinese",1300.0,25.0,4.2,20.3,Regional Dining
+1901,Alchemist Lake Viewery, Chetpet, Chennai,"Cafe, Italian, Chinese, Asian, Beverages",1100.0,10.0,4.3,3.3,Casual Dining
+1902,Pulusu Ruchulu, Anna Nagar East, Chennai,"Andhra, South Indian, Biryani, Mughlai, Seafood, Desserts, Beverages",1200.0,15.0,4.0,5.5,Regional Dining
+1903,Pizza Mechanics, Neelangarai, Chennai,"Pizza, Pasta, Italian",1000.0,10.0,4.0,15.4,Casual Dining
+1904,HOB, Nungambakkam, Chennai,"Bar Food, Continental, North Indian, Chinese, South Indian, Seafood, Biryani, Pizza",2000.0,30.0,4.4,3.7,Thematic Dining
+1906,Seacrest MGM Beach Restobar, Muttukadu, Chennai,"South Indian, North Indian, Chinese, Oriental, Continental, Salad, Kebab, Desserts",3000.0,15.0,3.9,28.7,Regional Dining
+1907,Amelie's, Alwarpet, Chennai,"Cafe, Continental, Grilled Chicken, BBQ, Pasta, Sandwich, Salad, Beverages",1100.0,10.0,4.1,5.1,Casual Dining
+1908,Barracuda Brew, Nungambakkam, Chennai,"North Indian, Continental, Chinese, Italian, Desserts, Beverages",2500.0,10.0,4.1,3.0,Regional Dining
+1909,Lotus - The Park," The Park, Nungambakkam", Chennai,Thai,3000.0,15.0,4.3,4.1,Specialty Dining
+1910,Kovai Naruvi, Anna Nagar West, Chennai,"South Indian, Biryani",400.0,10.0,4.3,8.0,Regional Dining
+1912,Spectra - The Leela Palace," The Leela Palace, MRC Nagar", Chennai,"North Indian, Asian, Mediterranean, Continental, Italian",4700.0,15.0,4.3,7.4,Regional Dining
+1913,Red Sky Cafe, Anna Nagar East, Chennai,"Chinese, Pasta, Fast Food, Desserts, Beverages",1200.0,10.0,4.3,5.6,Thematic Dining
+1914,EGCO, T. Nagar, Chennai,"Cafe, Coffee, Fast Food",1255.0,10.0,4.3,4.7,Casual Dining
+1915,Abid's, Chetpet, Chennai,"Arabian, Biryani, Hyderabadi, North Indian, Seafood, Oriental, Desserts, Beverages",1700.0,10.0,4.4,2.5,Other
+1916,Cilantro - Le Royal Meridien," Le Royal Meridien, St. Thomas Mount", Chennai,"European, Chinese, Continental",3500.0,25.0,3.9,11.0,Fine Dining
+1917,Food Exchange - Novotel Chennai Chamiers Road," Novotel Chennai, Nandanam", Chennai,"Continental, Italian, North Indian, Kerala, Beverages",3000.0,25.0,4.2,6.6,Thematic Dining
+1918,Hungry Cars, Egatoor, Chennai,"Chinese, Biryani, Continental",1000.0,10.0,3.8,28.3,Thematic Dining
+1919,Eko Lyfe - Guilt Free Bistro Cafe, Abhiramapuram, Chennai,"Fast Food, Salad, Desserts, Shake, Beverages",350.0,15.0,4.8,5.8,Casual Dining
+1920,House Of Billa, Nungambakkam, Chennai,"North Indian, Oriental, Biryani, Chinese, Pizza, Fast Food, Seafood, Bar Food",1400.0,15.0,4.3,4.1,Regional Dining
+1921,Mexe, Alwarpet, Chennai,"Mexican, Desserts, Beverages",500.0,10.0,4.3,6.2,Specialty Dining
+1922,Santé Spa Cuisine, Nungambakkam, Chennai,"Salad, Asian, Continental, Italian, Beverages",1600.0,10.0,4.6,3.2,Thematic Dining
+1923,Mirchi Express, Egmore, Chennai,"Biryani, South Indian, North Indian, Chinese, Desserts",950.0,25.0,3.9,1.5,Regional Dining
+1924,Kari Theory Namma Bar And Kitchen, Radisson Blu GRT Hotel - Chennai St. Thomas Mount, Chennai,"Bar Food, South Indian",1000.0,15.0,4.2,13.6,Thematic Dining
+1925,Navaratna - Le Royal Meridien," Le Royal Meridien, St. Thomas Mount", Chennai,"South Indian, North Indian",3500.0,25.0,3.9,11.1,Regional Dining
+1926,Vintage Bank - Hilton Chennai," Hilton Chennai, Guindy", Chennai,"Continental, Bar Food",3500.0,15.0,4.4,10.3,Thematic Dining
+1927,The Master Key, Velachery, Chennai,"Continental, South Indian, Oriental, Desserts, Bar Food",1000.0,10.0,4.1,13.5,Thematic Dining
+1928,Gossip Fusion Bistro, Kanathur, Chennai,"Italian, North Indian, Seafood, Kerala, South Indian, Biryani, Desserts, Beverages",1700.0,10.0,4.8,24.2,Fine Dining
+1929,Odin’s Galley, Velachery, Chennai,"North Indian, Chinese, Mexican, Momos, Bar Food, Desserts, Beverages",2000.0,20.0,4.3,12.2,Regional Dining
+1930,Chinese Wok, Porur, Chennai,"Chinese, Momos",700.0,15.0,4.0,15.0,Thematic Dining
+1931,California Burrito, Meenambakkam, Chennai,"Mexican, American, Continental, Healthy Food, Beverages, Fast Food",500.0,10.0,4.3,16.1,Specialty Dining
+1932,Sharief Bhai Biryani, Kolathur, Chennai,"Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages",1100.0,15.0,4.0,6.6,Regional Dining
+1933,Zebra Crossing, Thuraipakkam, Chennai,"North Indian, Chinese, Street Food, Seafood",1500.0,15.0,4.1,17.2,Regional Dining
+1934,Shaack, Anna Nagar East, Chennai,"Asian, Continental, Italian, South Indian, Desserts, Beverages, Sichuan",1100.0,10.0,4.0,5.0,Thematic Dining
+1935,Unlock - The Restobar - Keys Select Hotel," Keys Hotel, Thiruvanmiyur", Chennai,"Finger Food, Continental, Chinese, North Indian, Beverages",1900.0,15.0,4.1,10.5,Thematic Dining
+1936,Nyra, Besant Nagar, Chennai,"Bakery, Cafe, Beverages, Pizza, Pasta, Sandwich, Fast Food, Continental",1000.0,15.0,4.1,9.5,Casual Dining
+1937,Bayroot, Palavakkam, Chennai,"North Indian, Chinese, Oriental, Arabian, Sushi, Pasta, Desserts",2000.0,10.0,4.4,13.7,Regional Dining
+2000,Cé La Vie Kitchen & Bar," Middle Circle, Connaught Place", New Delhi,"North Indian, Mediterranean, Continental, Sushi, Italian, Lebanese, Asian, Bar Food",2200.0,20.0,4.3,1.4,Regional Dining
+2001,Out Of The Box Courtyard," Middle Circle, Connaught Place", New Delhi,"Continental, North Indian, Italian, Pizza, Chinese, Asian, Fast Food, Beverages",2200.0,20.0,4.1,1.2,Thematic Dining
+2003,The Darzi Bar & Kitchen," Middle Circle, Connaught Place", New Delhi,"North Indian, Chinese, Asian, Italian, Mughlai, Desserts, Tea, Beverages",2800.0,25.0,4.2,1.4,Regional Dining
+2004,Mount Fuji Japanese Pan Asian Restaurant & Bar," Middle Circle, Connaught Place", New Delhi,"Japanese, Asian, Chinese, Thai, Sushi, Seafood, Desserts, Beverages",2400.0,25.0,4.6,1.4,Fine Dining
+2005,Yeti - The Himalayan Kitchen," The Colonnade, Connaught Place", New Delhi,"Tibetan, Asian, Momos, Nepalese, North Eastern, Shake, Beverages",2500.0,10.0,4.2,1.3,Regional Dining
+2006,Warehouse Cafe, Connaught Place, New Delhi,"North Indian, Italian, Asian, Kebab, Beverages",2400.0,15.0,4.2,1.4,Regional Dining
+2007,Anglow, Khan Market, New Delhi,"Seafood, Finger Food, Continental, Pizza, Pasta, North Indian, Bar Food",2500.0,15.0,4.2,3.3,Specialty Dining
+2008,Desi Villagio, Connaught Place, New Delhi,"North Indian, Mughlai, Kebab, Chinese, Desserts, Beverages",2100.0,15.0,4.2,1.1,Regional Dining
+2009,Veda, Connaught Place, New Delhi,"North Indian, Mughlai, Biryani, Desserts",2900.0,15.0,3.7,1.3,Regional Dining
+2010,Bonne Foi 65, East of Kailash, New Delhi,"Asian, Italian, Bar Food, Pizza",1900.0,25.0,3.9,8.3,Thematic Dining
+2011,Drool Brew House," Sector 13, Dwarka", New Delhi,"North Indian, Salad, Italian, Sandwich, Continental, Oriental, Shake, Beverages",1500.0,20.0,4.4,17.5,Regional Dining
+2012,Asur - Microbrewery, Moti Nagar, New Delhi,"Bar Food, Salad, Asian, Italian, North Indian, Burger",1800.0,10.0,4.4,7.0,Thematic Dining
+2013,The Societe, Sector 50, Gurgaon,"North Indian, Biryani, Chinese, Italian, Shake, Beverages",2750.0,30.0,4.0,28.1,Regional Dining
+2014,Flos Music Bar, Model Town 3, New Delhi,"Continental, Asian, Italian, American, North Indian",2000.0,20.0,4.0,9.4,Thematic Dining
+2015,Gastronomica Kitchen & Bar," M Block Market, Greater Kailash 1 (GK1)", New Delhi,"Oriental, North Indian, Continental, European, Chinese, Salad, Beverages, Desserts",2000.0,25.0,4.3,8.7,Specialty Dining
+2016,Green Mantis - Authentic Pan Asian, Khan Market, New Delhi,"Asian, Chinese, Sushi, Desserts, Beverages",3200.0,10.0,4.6,3.3,Thematic Dining
+2017,Ten Twenty Two - 1022, DDA Market, New Delhi,"North Indian, Asian, European, Japanese, Beverages, Mughlai, Desserts, Drinks Only",1600.0,15.0,4.3,9.4,Regional Dining
+2018,Zura, Safdarjung, New Delhi,"Continental, Italian, Chinese, Salad, Sushi, Desserts",1800.0,10.0,4.5,7.5,Thematic Dining
+2019,Sarvasya, Hajipur, Noida,"South Indian, Coffee, North Indian, Desserts",1200.0,15.0,4.2,18.0,Regional Dining
+2020,Gonzo - Pan Asian Kitchen," Basant Lok Market, Vasant Vihar", New Delhi,"Asian, Chinese, Japanese, Thai, Beverages, Coffee",1400.0,25.0,4.5,8.8,Thematic Dining
+2021,The Turkey Project - Pizzeria And Sangria Bar, Defence Colony, New Delhi,"Cafe, Pizza, Italian, American, Beverages, Desserts",1700.0,10.0,4.6,6.9,Casual Dining
+2022,Ivoryy, Malviya Nagar, New Delhi,"European, Mediterranean, Asian, Continental, Beverages, Desserts, Kebab",3500.0,10.0,4.1,9.6,Fine Dining
+2023,Unwind Cafe," Ansal Plaza Mall, Khel Gaon Marg", New Delhi,"European, Asian, North Indian, Middle Eastern, Italian, Pizza, Pasta, Beverages",1800.0,15.0,4.2,7.2,Fine Dining
+2024,Plum Coffee and Cocktails, Connaught Place, New Delhi,"Continental, North Indian, Italian, Asian",2000.0,20.0,4.2,1.0,Thematic Dining
+2025,FIO Cookhouse and Bar," Epicuria Food Mall, Nehru Place", New Delhi,"European, Modern Indian, Italian, Pizza, North Indian, Seafood, Desserts, Beverages",3400.0,20.0,4.4,9.2,Fine Dining
+2026,Somewhere Restaurant & Bar," Middle Circle, Connaught Place", New Delhi,"North Indian, Asian, European, Continental, Lebanese, Turkish, Mediterranean, Kebab",2000.0,20.0,4.2,1.4,Regional Dining
+2027,The Barbeque Company, Rajouri Garden, New Delhi,"BBQ, North Indian, Fast Food, Beverages",1700.0,10.0,4.2,8.5,Specialty Dining
+2028,Clue, North West Avenue, New Delhi,"North Indian, Oriental, Biryani, Chinese, Pizza, Pasta, Shake, Beverages",1800.0,30.0,4.0,9.5,Regional Dining
+2029,Melt House," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"Cafe, Continental, Sandwich, Italian, Desserts, Coffee, Beverages, Bar Food",1200.0,10.0,4.3,10.8,Casual Dining
+2030,Openhouse Cafe, Connaught Place, New Delhi,"Continental, Chinese, North Indian, Mughlai, Pizza, Beverages, Desserts, Bar Food",2000.0,15.0,4.2,1.4,Thematic Dining
+2031,Moti Mahal Delux- Legendary Culinary,  South Extension 2 Market, New Delhi,"North Indian, Mughlai, Chinese, Desserts, Beverages",1800.0,15.0,4.2,6.4,Regional Dining
+2033,Miss Doozy, Greater Kailash 3 (GK3), New Delhi,"North Indian, Biryani, Italian, Bar Food, Chinese, Shake, Beverages",1000.0,15.0,4.6,9.8,Regional Dining
+2034,Connaught Club House, Janpath, New Delhi,"North Indian, Mughlai, Italian, Continental, Asian, Fast Food, Desserts",3000.0,20.0,4.3,1.0,Regional Dining
+2035,Themis Barbeque House," Ambience Mall, DLF Phase 3", Gurgaon,"North Indian, Italian, Mughlai, Salad, Desserts, Beverages, BBQ, Asian",1800.0,10.0,4.1,17.4,Regional Dining
+2036,Castle's Barbeque, Sector 51, Gurgaon,"BBQ, North Indian, Chinese, Salad, Italian, Desserts",1800.0,15.0,4.1,25.4,Specialty Dining
+2037,Kalsang Restaurant, Majnu ka Tila , New Delhi,"Chinese, Asian, Korean, Momos, Thai, Tibetan, Sichuan, Seafood",1000.0,10.0,3.2,8.6,Thematic Dining
+2038,Ankara, Greater Kailash 3 (GK3), New Delhi,"Turkish, North Indian, Middle Eastern, Mediterranean, Pizza, Biryani, Kebab, Desserts",1700.0,25.0,3.9,10.2,Other
+2039,Rizq, Defence Colony, New Delhi,"European, Italian, Continental, Pasta, Pizza, Middle Eastern, Desserts, Beverages",2700.0,10.0,4.2,6.2,Fine Dining
+2040,Ministry Of Beer, Connaught Place, New Delhi,"North Indian, Italian, Asian, Continental, Chinese, Beverages",2800.0,15.0,4.3,1.5,Regional Dining
+2041,Saucy Cocktail Garden, Rajouri Garden, New Delhi,"Asian, Continental, Chinese, North Indian, Pizza",2000.0,25.0,4.1,9.3,Thematic Dining
+2042,Flow Brew & Dine," DLF Avenue, Saket", New Delhi,"European, Asian, Japanese, Italian, Modern Indian, North Indian, Pizza",3000.0,10.0,4.5,10.8,Fine Dining
+2043,Kori's, Safdarjung, New Delhi,"Korean, Asian, Cafe, Japanese, Seafood, Beverages, Coffee, Desserts",1100.0,10.0,4.1,7.3,Specialty Dining
+2088,Uncultured Cafe And Bar, Kailash Colony Market, New Delhi,"Continental, Chinese, Italian, Finger Food, Fast Food, North Indian, Desserts, Beverages",2500.0,10.0,4.3,8.7,Thematic Dining
+2089,Open Tap 29," Main Market, Sector 29", Gurgaon,"Bar Food, Oriental, Continental, Fast Food, North Indian, Beverages",2500.0,10.0,4.4,22.6,Thematic Dining
+2090,AIR - An Ivory Region," Club Road, Punjabi Bagh", New Delhi,"Chinese, Salad, Momos, North Indian, Pizza, Beverages",1900.0,20.0,4.0,9.5,Thematic Dining
+2091,The Dom, North West Avenue, New Delhi,"North Indian, Continental, Lebanese, Fast Food, Chinese, Beverages",1500.0,25.0,4.2,9.4,Regional Dining
+2092,38 Barracks, Connaught Place, New Delhi,"North Indian, Biryani, Chinese, Kebab, Desserts, Beverages",1100.0,20.0,4.4,1.5,Regional Dining
+2093,Litchi Bistro, Malviya Nagar, New Delhi,"Sandwich, European, Italian, Pizza, Pasta, Modern Indian",1600.0,15.0,4.3,9.6,Casual Dining
+2094,Local," Gardens Galleria Mall, Sector 38", Noida,"North Indian, Oriental, Bar Food, Kebab",2500.0,15.0,4.3,13.0,Regional Dining
+2095,The Chocolate Room, Vishal Enclave, New Delhi,"Cafe, Coffee, Mexican, Italian, Fast Food, Salad, Desserts, Beverages",1200.0,15.0,3.8,9.6,Casual Dining
+2096,Viva - All Day Dining - Holiday Inn," Holiday Inn, Aerocity", New Delhi,"North Indian, Asian, Chinese, Sandwich, Salad, Rolls, Italian, Beverages",3500.0,25.0,4.3,12.0,Regional Dining
+2097,The Sky High," Ansal Plaza Mall, Khel Gaon Marg", New Delhi,"North Indian, Chinese, Mughlai, Continental, Italian, Biryani, Beverages",2000.0,20.0,4.1,7.2,Regional Dining
+2098,Cedar Club House, Janpath, New Delhi,"Modern Indian, Mediterranean, Continental, Mexican, Turkish, Asian, Desserts, Bar Food",1800.0,10.0,4.1,1.0,Fine Dining
+2099,Thalairaj Biryani, Kailash Colony, New Delhi,"Andhra, Biryani, Hyderabadi, South Indian, Indian, Kebabs, Snacks, Beverages",600.0,10.0,4.3,8.5,Regional Dining
+2100,Azula Asian Kitchen," Community Centre, New Friends Colony", New Delhi,"Asian, Japanese, Sushi, Oriental, Chinese, Seafood, Salad, Coffee",1800.0,15.0,4.4,9.1,Thematic Dining
+2101,Chido, Connaught Place, New Delhi,"North Indian, Asian, Lebanese, Italian, European, Chinese, Beverages",2000.0,20.0,4.3,1.4,Regional Dining
+2102,The Red Door, Rajouri Garden, New Delhi,"Asian, Chinese, Sushi, Japanese, Thai, Desserts, Vietnamese, Korean",2000.0,10.0,4.0,9.1,Thematic Dining
+2103,House Of Wok Prive, Punjabi Bagh, New Delhi,"Asian, Chinese, Sushi",1800.0,10.0,4.3,9.0,Thematic Dining
+2104,Maruchi, Lado Sarai, New Delhi,"Chinese, Asian, Pizza, Sushi, Japanese, Seafood, Pasta, Desserts",3000.0,10.0,4.5,10.8,Thematic Dining
+2105,The Salt Cafe, Hajipur, Noida,"Continental, Chinese, North Indian, Modern Indian, Lebanese, Japanese, Mediterranean, Italian",2200.0,10.0,4.4,18.0,Thematic Dining
+2106,Downtown - Sector 29," Main Market, Sector 29", Gurgaon,"Asian, North Indian, Kebab, Rolls, Oriental, Italian, Mughlai, Pizza",2800.0,15.0,4.8,22.6,Thematic Dining
+2107,The Sunday House, Punjabi Bagh, New Delhi,"Asian, Mediterranean, North Indian, Pizza, Pasta, Sushi",1400.0,15.0,4.3,9.3,Thematic Dining
+2108,Farmer's Basket At Pluck - Pullman New Delhi Aerocity," Pullman New Delhi, Aerocity", New Delhi,"North Indian, European, Continental, Mediterranean, Asian",4500.0,25.0,4.5,11.6,Regional Dining
+2109,Cabo Deli, Sainik Farms, New Delhi,"North Indian, Continental, European, Fast Food, Salad, Pizza, Pasta, Desserts",2300.0,10.0,4.1,12.7,Regional Dining
+2110,VietNom," Cyber Hub, DLF Cyber City", Gurgaon,"Vietnamese, Asian, Healthy Food, Desserts, Beverages",2000.0,15.0,4.7,18.7,Specialty Dining
+2112,Havemore," MGF Metropolitan Mall, Saket", New Delhi,"North Indian, Mughlai, Biryani, Beverages",3000.0,15.0,4.7,10.7,Regional Dining
+2113,Pincode By Kunal Kapur," Select Citywalk Mall, Saket", New Delhi,"North Indian, Mughlai, Kebab, Biryani, Desserts, Beverages",1600.0,10.0,4.2,10.9,Regional Dining
+2114,NAO - Next Asian Outing," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"Korean, Asian, Chinese, Sushi, Desserts, Beverages",1700.0,10.0,4.5,10.7,Specialty Dining
+2115,Indian Grill Room, Sector 56, Gurgaon,"Mughlai, North Indian, Kebab, Desserts, Beverages",2200.0,15.0,4.5,25.0,Regional Dining
+2116,Dolche by Duty Free, Gujranwala Town, New Delhi,"Continental, North Indian, Mediterranean, European, Italian, Bar Food, Desserts, Beverages",1200.0,20.0,4.3,8.1,Thematic Dining
+2118,Sultan- Radisson Blu Kaushambi," Radisson Blu Hotel, Kaushambi", Ghaziabad,"North Indian, Chinese, Continental, Italian, Oriental, Beverages",3500.0,25.0,4.5,11.6,Regional Dining
+2119,145 Cafe And Bar, DLF Cyber City, Gurgaon,"North Indian, Kebab, Seafood, Continental, Italian, Desserts, Beverages, Bar Food",1500.0,10.0,4.4,18.8,Regional Dining
+2120,American Brew - All day American Breakfast & Cafe, Defence Colony, New Delhi,"Cafe, Coffee, Beverages, Healthy Food, Italian, Continental, Pancake, Desserts",1200.0,25.0,4.4,6.2,Casual Dining
+2121,Home," Ambience Mall, Vasant Kunj", New Delhi,"Modern Indian, European, Japanese, Desserts",4500.0,10.0,4.5,10.9,Fine Dining
+2122,Clock Tower, Golf Course Road, Gurgaon,"Bar Food, North Indian, Asian, Pizza, Pasta, Continental, Beverages",3000.0,15.0,4.6,22.5,Thematic Dining
+2123,Kiona Patio & Bar, Hauz Khas, New Delhi,"European, Asian",1500.0,15.0,4.4,9.2,Fine Dining
+2124,The BBQ Industry, Jail Road, New Delhi,"BBQ, North Indian, Beverages",1600.0,10.0,4.4,10.6,Specialty Dining
+2125,Nowhere Terrace Brewpub Cafe," Cross Point Mall, DLF Phase 4", Gurgaon,"North Indian, Asian, Continental, Sushi, Fast Food, Italian, Sandwich",2000.0,15.0,4.3,21.4,Regional Dining
+2126,Seasonal Tastes - The Westin Gurgaon," The Westin Gurgaon, Sector 29", Gurgaon,"North Indian, Asian, Sichuan, Kebab, Desserts",5000.0,25.0,4.2,21.4,Regional Dining
+2127,"Bobachee - Global Kitchen, Bar & Terrace Cafe", South Extension 2, New Delhi,"Desserts, Bar Food, Continental, North Indian",2500.0,20.0,4.3,6.4,Other
+2212,Chica Loca By Sunny Leone, Sector 132, Noida,"Middle Eastern, North Indian, Seafood",2500.0,15.0,4.1,21.6,Fine Dining
+2214,Quarter Plate By Chef Kunal Kapur, Skymark One, Noida,"North Indian, Continental, Mughlai, Seafood, Bar Food, Desserts, Beverages",2400.0,10.0,4.3,17.9,Regional Dining
+2215,Drama, Connaught Place, New Delhi,"Modern Indian, Asian, Italian, Continental",1500.0,20.0,4.3,1.2,Fine Dining
+2218,64/6 -  Country Inn & Suites By Radisson," Country Inn & Suites by Carlson, Sahibabad", Ghaziabad,"North Indian, Chinese, Thai, Continental",3500.0,20.0,4.6,13.4,Regional Dining
+2219,Laidback Cafe," Cyber Hub, DLF Cyber City", Gurgaon,"Asian, Oriental, Continental, Italian, Middle Eastern, North Indian, Desserts, Beverages",1900.0,15.0,4.6,19.1,Thematic Dining
+2220,Cafe Hawkers, Connaught Place, New Delhi,"North Indian, Chinese, Mexican, Fast Food, Desserts, Beverages",1600.0,15.0,4.2,1.5,Regional Dining
+2221,MardiGras By Uncover," Sector 9, Dwarka", New Delhi,"North Indian, European, Italian, Turkish",2000.0,10.0,4.3,15.1,Regional Dining
+2222,Ministry Of Daru, Sector 63, Noida,"Finger Food, Chinese, Continental, Italian, Mughlai, North Indian",1800.0,20.0,4.3,16.1,Thematic Dining
+2224,Deja Brew," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"Pizza, Pasta, Burger, Wraps, Beverages, Asian, Continental",3400.0,15.0,4.6,10.7,Casual Dining
+2225,House Of Boho," Ansal Plaza Mall, Khel Gaon Marg", New Delhi,"Mediterranean, Asian, Sushi, Italian, Pizza, Pasta, North Indian",3200.0,10.0,4.3,7.1,Fine Dining
+2226,Blanca, Chhatarpur, New Delhi,"Italian, European, Desserts, Continental",1800.0,10.0,4.3,13.9,Fine Dining
+2228,Dearie," Gardens Galleria Mall, Sector 38", Noida,"North Indian, Chinese, Pizza, Italian, Asian, Biryani, Sushi, Beverages",1800.0,20.0,4.4,12.8,Regional Dining
+2229,ILLUZION Luxe Club," Gardens Galleria Mall, Sector 38", Noida,"North Indian, Chinese, Italian, Mughlai, Pasta, Pizza, Biryani, Desserts",1200.0,25.0,4.0,12.8,Regional Dining
+2230,Sufiaana  By Cherish, Ashok Vihar Phase 2, New Delhi,"North Indian, Mediterranean, Asian, European, Chinese",2000.0,10.0,4.3,8.7,Regional Dining
+2231,Brewocrat - Brewery Skybar & Kitchen," Elements One Mall, Sector 49", Gurgaon,"Continental, Sushi, North Indian, Mediterranean, Asian, Pizza, American, Burger",2500.0,20.0,4.5,27.7,Thematic Dining
+2232,Ping's Bia Hoi, DLF Horizon Center, Gurgaon,"Chinese, Japanese, Korean, Ice Cream",1700.0,15.0,4.4,22.3,Thematic Dining
+2233,The Beer Garden, Sector 63, Noida,"North Indian, Biryani, Fast Food, Pizza, Pasta, Salad, Chinese, Desserts",1800.0,20.0,4.2,16.1,Regional Dining
+2234,The Dine Room, North West Avenue, New Delhi,"North Indian, Mughlai, Thai, Chinese, Continental, Fast Food, Beverages, Desserts",3500.0,40.0,3.9,9.6,Regional Dining
+2236,Mala - Akbari," 32nd Avenue, Milestone", Gurgaon,"North Indian, South Indian, Seafood, Desserts, Beverages",1900.0,15.0,4.5,24.1,Regional Dining
+2237,The Walk, Raj Nagar, Ghaziabad,"North Indian, Chinese, Pasta, Pizza, Momos, Sandwich, Fast Food, Beverages",950.0,10.0,4.3,23.4,Regional Dining
+2238,Staple Bar And Bistro," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"North Indian, Biryani, Desserts, Cafe, Coffee, Modern Indian",1500.0,15.0,4.4,10.9,Regional Dining
+2239,Nomad Experience," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"Pizza, Italian, Cafe, Pasta, Burger, Mexican, Beverages",1500.0,15.0,4.5,10.7,Casual Dining
+2240,Open Tap Golf Course Road," South Point Mall, Golf Course Road", Gurgaon,"Finger Food, North Indian, Biryani, Continental, Chinese, Desserts, Beverages, Rolls",2500.0,10.0,4.6,22.6,Thematic Dining
+2241,Food Exchange - Novotel New Delhi Aerocity," Novotel New Delhi, Aerocity", New Delhi,"Asian, European, Mediterranean, North Indian",3500.0,25.0,4.1,11.7,Thematic Dining
+2243,Made In Punjab," DLF Mall of India, Sector 18", Noida,"North Indian, Mughlai",2500.0,10.0,4.3,12.7,Regional Dining
+2244,Roesia, AIPL Joy Street, Gurgaon,"North Indian, Oriental, Italian, Desserts",2200.0,20.0,4.5,29.8,Regional Dining
+2245,Spectra - The Leela Ambience," The Leela Ambience, DLF Phase 3", Gurgaon,"North Indian, Continental, Oriental, Japanese, Desserts, Beverages, Italian",6000.0,25.0,4.3,17.5,Regional Dining
+2246,Swan, Mehrauli, New Delhi,"Italian, Pasta, Continental, Pizza, Asian, Japanese, Desserts",2500.0,10.0,4.2,11.3,Fine Dining
+2247,Fiaba, Sector 72, Noida,"Cafe, Italian, Bakery, Pizza, Continental, North Indian, Coffee, Desserts",1200.0,10.0,4.0,19.3,Casual Dining
+2248,Living Room By Kalsang, Majnu ka Tila, New Delhi,"Cafe, Korean, Tibetan, Thai, Seafood, Momos, Lebanese, Chinese",1000.0,10.0,4.3,8.8,Casual Dining
+2249,Garden Lovers Botanical Boutique & Cafe, MG Road, Gurgaon,"Cafe, Coffee, Desserts, Continental",850.0,10.0,4.0,21.2,Casual Dining
+2251,Tahia, Hajipur, Noida,"Turkish, North Indian, Italian, Chinese, Greek, Modern Indian, European, Asian",2100.0,10.0,4.2,18.1,Other
+2252,RYU Rooftop Bar," 32nd Avenue, Milestone", Gurgaon,"North Indian, Asian, Italian, Sushi, Pasta, Pizza, Chinese, Bar Food",2000.0,15.0,4.2,24.0,Regional Dining
+2253,Amaltas - Indian Tapas & Bar," M Block Market, Greater Kailash 2 (GK2)", New Delhi,"North Indian, Modern Indian, Beverages",1500.0,15.0,4.8,10.7,Regional Dining
+2380,Anardana, M3M International Financial Center, Gurgaon,"North Indian, Mughlai, Chinese, Italian, Momos, Biryani, Desserts, Beverages",2400.0,10.0,4.5,28.7,Regional Dining
+2381,Bizou-Bizou, Aerocity, New Delhi,"European, Asian",2400.0,15.0,4.2,11.9,Fine Dining
+2382,Evergreen Restaurant & Sweet House," Sector 10, Dwarka", New Delhi,"North Indian, Chinese, South Indian, Fast Food, Street Food, Mithai, Ice Cream, Beverages",400.0,10.0,4.4,15.9,Regional Dining
+2383,Juu Juu, Sector 59, Gurgaon,"European, Mediterranean, Turkish, Continental, Bar Food",3000.0,15.0,4.3,25.8,Fine Dining
+2384,TEO - Lounge & Bar, North West Avenue, New Delhi,"North Indian, Chinese, Italian, Mughlai, Beverages, Sichuan, Bar Food, Ice Cream",3000.0,40.0,4.2,9.6,Regional Dining
+2386,Bellagio, Ireo Grand View High Street , Gurgaon,"European, Italian, Arabian, Mughlai, Modern Indian, Salad, Desserts",3000.0,10.0,4.3,25.6,Fine Dining
+2387,Capital Diner, Connaught Place, New Delhi,"North Indian, Chinese, Burger, Pizza, Sandwich, Rolls, Bakery, Desserts",600.0,10.0,4.4,2.0,Regional Dining
+2388,Silbuttah - The Indian Story by Berco's, Vishal Enclave, New Delhi,"North Indian, Mughlai, Kebab",1300.0,20.0,4.8,9.3,Regional Dining
+2389,Float By Duty Free, Spectrum Metro Mall, Noida,"North Indian, Oriental, Chinese, Italian, Continental",3000.0,20.0,4.2,17.5,Regional Dining
+2390,Padmanabham, Rajendra Place, New Delhi,"South Indian, Andhra, Chettinad, Kerala, Desserts, North Indian, Fast Food, Chinese",800.0,10.0,4.4,3.7,Regional Dining
+2391,Limitless," Vasant Square Mall, Vasant Kunj", New Delhi,"Modern Indian, Italian, Continental, Chinese, Arabian",2500.0,20.0,4.3,12.4,Fine Dining
+2392,Rooftop - The View," Radisson Blu Hotel, Kaushambi", Ghaziabad,"North Indian, Chinese, Continental, Italian, Asian, South American, Beverages",3500.0,25.0,4.3,11.4,Regional Dining
+2393,Gola Sizzlers - Naresh Gola Group, Pacific Mall - NSP, New Delhi,"North Indian, Chinese, Salad, Pasta, Pizza, Desserts, Shake, Beverages",2500.0,15.0,4.2,9.4,Regional Dining
+2394,The Imperial Spice, Connaught Place, New Delhi,"North Indian, Continental, Mughlai, Italian, Kebab, Biryani, Beverages, Desserts",3000.0,15.0,4.4,1.5,Regional Dining
+2395,Burosu Asia Soul Kitchen," 32nd Avenue, Milestone", Gurgaon,"Asian, Seafood, Sushi, Japanese, Thai, Chinese, Beverages, Korean",1900.0,15.0,4.2,24.0,Thematic Dining
+2396,Cafe By Soul, M3M 65th Avenue, Gurgaon,"Cafe, Fast Food, Pizza, Pasta, Burger, Desserts, Beverages",1200.0,15.0,4.3,28.3,Casual Dining
+2397,The Terrace," Supertech Shopprix Mall, Vaishali", Ghaziabad,"North Indian, Mughlai, Chinese, Continental, Italian, Bar Food, Desserts, Beverages",2600.0,15.0,4.2,12.9,Regional Dining
+2399,United Coffee House Rewind, Pacific Mall, Faridabad,"North Indian, Continental, Asian, Salad, Italian, Seafood, Desserts, Beverages",2300.0,25.0,4.3,28.0,Regional Dining
+2400,Big Pitcher, Sector 29, Gurgaon,"North Indian, Asian, Continental, Chinese, Oriental, Mediterranean, Fast Food, Biryani",3000.0,15.0,4.3,23.0,Regional Dining
+2401,"Unlocked - Bar, Kitchen, Escape Room"," 32nd Avenue, Milestone", Gurgaon,"Continental, Chinese, North Indian",2200.0,15.0,4.1,24.0,Thematic Dining
+2402,Veu by Duty Free, Raj Nagar, Ghaziabad,"Continental, North Indian, Lebanese, Chinese, Italian",1500.0,15.0,4.1,23.0,Thematic Dining
+2403,Pllatos, Vasant Kunj, New Delhi,"Chinese, Continental, Thai, Sushi, North Indian, Italian, Greek, Pizza",1900.0,20.0,4.2,11.6,Thematic Dining
+2404,London Street Cafe - Drinks at MRP," Aditya Mega Mall, Karkardooma", New Delhi,"North Indian, Chinese, Italian, Salad, Bar Food, Continental, Desserts, Beverages",1000.0,10.0,4.2,9.5,Regional Dining
+2405,Coba," Vasant Square Mall, Vasant Kunj", New Delhi,"Peruvian, Thai, Japanese, Chinese, Mexican, Mediterranean, Italian, Bar Food",2500.0,10.0,4.2,12.3,Other
